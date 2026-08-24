@@ -27,11 +27,11 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    25f19b7572e04dd0f0527d7bd8f9f53f4f1a1747949690ce804504965c975139
+# appHash    a28243c9fda89e169af85e250deaff009f4b0204046f6a61362355398fd12f0a
 # buildId    20260824T2004Z-1a08b35d
-# opgesteld  2026-08-24T23:05:28Z
-# bestanden  100
-# bytes      3452121
+# opgesteld  2026-08-24T23:11:43Z
+# bestanden  103
+# bytes      3451623
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -105,34 +105,37 @@ ac447d16af2577ec12294e196965e6f327688eccb6d5c6b8779b82df609ac26f      32214  con
 4544a0fd65a4b74e7c8152388b2c08a41b3fb085f15230a966f620faa861d03a      10352  config.json.gz
 38ee0df4ff8f05f26979488b453fa7f565417f7b44773002edb9d0a1d33c5c6c      80216  glyphs/Noto Sans Bold/0-255.pbf
 c697c835b410a244ac00a905cae3d22ad25196c9c351abdc9e43f12995af90fe      36558  glyphs/Noto Sans Bold/0-255.pbf.br
-d2a5f13df11a65a01af068f16b0a7f2651a86183e928bd68d87bf681616e1e30      47926  glyphs/Noto Sans Bold/0-255.pbf.gz
+db68f5b39893aa1581cdfde4ce674d0217771802545da3896abdf45901c87518      47926  glyphs/Noto Sans Bold/0-255.pbf.gz
 177e087adb2c5acf38f8caaa038652aed67f63af875834e0e5c2dc21140e9928         31  glyphs/Noto Sans Bold/11008-11263.pbf
 faad73a1d184a3852cd5eeebcb8f6b1752778607c773fecd7c0d1ab5d6a2409f     134217  glyphs/Noto Sans Bold/256-511.pbf
 3d90f560050a738b140c59339d2a8d059480a5802fe2339fef5721b579a1ca8e      51035  glyphs/Noto Sans Bold/256-511.pbf.br
-1b7c3aa546659fda99cc9aa3d18cc4e2de5411f50ac339530d41b2716f952831      66699  glyphs/Noto Sans Bold/256-511.pbf.gz
-8ea798d0f74a99375b900ed163edf8cde8bb50892199d5fc60394a499d74700a        497  glyphs/Noto Sans Bold/512-767.pbf
+bb0e04cb4f0e1f88b85f1177bf1bed1805e7ccb08e1d62c3bfeb9ef1c31c0816      66699  glyphs/Noto Sans Bold/256-511.pbf.gz
+bb280467015b6f57ba958314ec055ea66f055575fe4bf3651a053c46522de945        648  glyphs/Noto Sans Bold/512-767.pbf
+115dc62336b116d13f2e7d0461c6a2b7adecdf7ad0ddbdc72c0d5bbb2d0b409c        611  glyphs/Noto Sans Bold/512-767.pbf.br
 6cbd29613d82538a09eebf960f2ae2ba095aea1cd6f0a88e9c88c2bee166a0cc         28  glyphs/Noto Sans Bold/768-1023.pbf
 cc85538ac0447c3255c44135e427bff057ff7717199fb52c78f28e695b1e2e91       1903  glyphs/Noto Sans Bold/8192-8447.pbf
 e5cf7187c71497ea8c88cd080079107750f7e495efb043a6236777a33e5147fc       1287  glyphs/Noto Sans Bold/8192-8447.pbf.br
-8044648e61d35afd67c0b73de3e128c00a6102133fc54df82ad63bb6bc47aa0f       1458  glyphs/Noto Sans Bold/8192-8447.pbf.gz
+b07b81931566dfa9fd30f54be301421274a178f9ba6d842b329b66914e220792       1458  glyphs/Noto Sans Bold/8192-8447.pbf.gz
 62c78e8ffd31397a677d9ca90e7070a0e296a461b9de21c4e40256da0f0aee73         29  glyphs/Noto Sans Bold/8448-8703.pbf
-0e3406df95527fa186f58334fbd5ca071c9f5a972ca29ce7af4c79aef57a61f5         29  glyphs/Noto Sans Bold/8704-8959.pbf
+03e5b69dbc182791314d4863813760f34be732ca1e653aea99e9e6ec123efd7a        211  glyphs/Noto Sans Bold/8704-8959.pbf
+1467be65fc9a4b71d16ab11e55f589e6e98d158e17890be669cb7679364dda53        158  glyphs/Noto Sans Bold/8704-8959.pbf.br
+1e2b5015b3afef1c3d57fe7f1c6a573813c32fa4af46e1aa2cadf0978082ce9a        144  glyphs/Noto Sans Bold/8704-8959.pbf.gz
 a98f6346ff8dfaa2fd426b0fb2ec28342eeafa9b5d8e7b037ac44bf925fe6db1      76021  glyphs/Noto Sans Regular/0-255.pbf
 cbc6e1a72db7f5f7d2ec7bad37435c9a8a826c2c200994cd47cd2296bed6724a      35628  glyphs/Noto Sans Regular/0-255.pbf.br
-0fc23ad227b9e16c0a686b042909f47caa3240b495e93ba487b2e01473253b0c      46054  glyphs/Noto Sans Regular/0-255.pbf.gz
+a004b359f74e954842b8dc3eff72b3cf8a793dc67ff383168f9bb75069464d38      46054  glyphs/Noto Sans Regular/0-255.pbf.gz
 5a4719f2905f11f21a197a2001fb9f8686904d4c5c5c8c7e3c7409cefaf040b7         34  glyphs/Noto Sans Regular/11008-11263.pbf
 a162d730cebdef9efa7eaeec1a71ce030a6b8255ad1d11c5d7a8e2c49a1d3eeb     127731  glyphs/Noto Sans Regular/256-511.pbf
 ece9a56195357c564235325561215e9cdab2e52dbf80810921375e75935f8975      46907  glyphs/Noto Sans Regular/256-511.pbf.br
-57907cea5af0241e81c604d744eedd83531ee6b061b8946c46819ab18351f0ad      62809  glyphs/Noto Sans Regular/256-511.pbf.gz
-dada9166b2bba4cc60f818c73583360550e6d555fecc5f03b1bef5e925869995        458  glyphs/Noto Sans Regular/512-767.pbf
-77fb31dae6846862f01ad78644f35eb9db5355638d233a019e54d7703c3aa97f        427  glyphs/Noto Sans Regular/512-767.pbf.br
+665b738e42de3daf4b251c1314739b5398c16e36f55c6211a463546f196ece50      62809  glyphs/Noto Sans Regular/256-511.pbf.gz
+01945e3e2c6505140af8f7d73867dce8e4e1d94987d7d90e007ac7228390bc16        596  glyphs/Noto Sans Regular/512-767.pbf
+2b02f6142ca71332b6444dd23461e598fab2b7dbffbabd30cdc1837e55f46807        559  glyphs/Noto Sans Regular/512-767.pbf.br
 c024b13bf7cac049fb9796ece5f1f743477406680939a98d4dce2a84e6c30f4d         31  glyphs/Noto Sans Regular/768-1023.pbf
 b52e38767522d08f556f8213ed53f6cd61a49d66e3d480b79e97160fb73ea47f       1668  glyphs/Noto Sans Regular/8192-8447.pbf
 ac77027418adcfaee044dc0335592a11eacec286b4cf38110d593c08a5bda865       1194  glyphs/Noto Sans Regular/8192-8447.pbf.br
-0d96d9858db968f9db7b0fa91d834b481088178eff2a01441aab0c5489da5b60       1340  glyphs/Noto Sans Regular/8192-8447.pbf.gz
+0583cbf503f05d050bcb761169179d37c3010a6b14da17862e2b29d7094d548d       1340  glyphs/Noto Sans Regular/8192-8447.pbf.gz
 a53bd2bae26b68a0b272328a18d0387da56879975213257e8ab9fedfa77634c1         32  glyphs/Noto Sans Regular/8448-8703.pbf
-825ba3f1949fd5abca81a22527cb91d0f5036c9d0be4c70567d781ac5fb0fbe3         32  glyphs/Noto Sans Regular/8704-8959.pbf
-54710ccb7e5744e17b06b7cdbc9d90646d4c43bfa30fd29873e184b7c0b4a872       5111  glyphs/index.json
-a119250d3944db674948df3be446364b76ebd938269bb1b396c5b7081c800b5a       1114  glyphs/index.json.br
-9ec64039547b039cfe005b02db04302882eca6c5ea1e4e12d779d8e92bc97fa1       1298  glyphs/index.json.gz
+b2159c2a0f8726a90509dfe1e54e041660a2977254481026e440ba9603f19883        170  glyphs/Noto Sans Regular/8704-8959.pbf
+7eb6fb16796cd178c4c10de853294c152cd339acec3c33a2094e851af43bcc6a        128  glyphs/Noto Sans Regular/8704-8959.pbf.br
+cfa65770aba55d3a7cbaf752ed35133ac34fa6eba524711bdc32b48cccb7c8df        126  glyphs/Noto Sans Regular/8704-8959.pbf.gz
+8cb8b4c5f441dddbdf99baf51eb3458ab4e04579b9a2af80f099aec33630c06e       5117  glyphs/index.json
 160caa84a1e262653df718df751292c55fe1c936cd375e78f834d128503f6b7b       3975  index.html
