@@ -27,11 +27,11 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    a2b4acfc28f2817307daf1d34ae5015cfa9d85e5a3ff2b6df980663c0872f28d
+# appHash    25f19b7572e04dd0f0527d7bd8f9f53f4f1a1747949690ce804504965c975139
 # buildId    20260824T2004Z-1a08b35d
-# opgesteld  2026-08-24T22:54:06Z
+# opgesteld  2026-08-24T23:05:28Z
 # bestanden  100
-# bytes      3450971
+# bytes      3452121
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -57,9 +57,9 @@ c968eb67c7cd00329111b66fe6c134745e3c77b8fa1a8672fc09a91d74918804       6242  ass
 3b4ebfc91baa94db1860d87da2c1da4e4dcbaffe2e91a3e50fde722b102bca40       7140  assets/js/grid.js
 71e80bfedc99a1355225b119b41dd68f17a506ead6afa9211b485c1aa392befd       2609  assets/js/grid.js.br
 ec20413d281a1989cddca75d9b4b5a92978d7440a826d7be8d0d2ccd719ac0d0       2801  assets/js/grid.js.gz
-69d0781c667ddd91bca923da3c08e62f20aa0c991907587b30257a65186999ad      28743  assets/js/integriteit.js
-eb825d698a92bbcd4da081bd5a358e1e9b25180b544fd1725ea87e59860f670d       8879  assets/js/integriteit.js.br
-d170ec436a2eb2b7c5cba69e5e252edca9d41293d8c16f7232fca92ab5004f98       9745  assets/js/integriteit.js.gz
+8a540d1d61bd51e61af7c0ecdb5b9948d0fe9d2c197408674248af68c9254fc7      29376  assets/js/integriteit.js
+4bac0ec0c872b047b8a4d31eabe6cfcc554d7bdf2bf1d0b54cf1276bf8faf305       9131  assets/js/integriteit.js.br
+d5e9bff45153f676d30c8a76fb211c8bb51ab2634345c93ad07f539022110373      10010  assets/js/integriteit.js.gz
 bb871b06425d38c6734e0c4e72c6aa3a3c83b9ed5b2b27b6d135fda907f5c379      20776  assets/js/isochrone.js
 2b1355e3f1b79538cab54c5318c98f38ae029e8397b86d8ae9371ad8c13ec85d       5843  assets/js/isochrone.js.br
 baab2b79f201b9e32823e26452d119a395a53a6ff6a88c5e5353a14dbc42398a       6430  assets/js/isochrone.js.gz
