@@ -1,8 +1,8 @@
 {
  "$comment": "Integriteitsmanifest van tijdafstand.nl. Gegenereerd door tools/integriteit.py; niet met de hand wijzigen. Dit bestand hoort uit de git-repository te komen, niet van de server die ermee gecontroleerd wordt. Wat het wel en niet bewijst: docs/INTEGRITEIT.md.",
- "appHash": "9120eca9fbc7c020fac327f1d079a19de0c4de1592a304dacc342b85eec00946",
+ "appHash": "0e45c58da4b230584d2a94367ce1ef14b1516a3471275a7696123d3105b6bb46",
  "buildId": "20260824T0835Z-eaabc089",
- "opgesteld": "2026-08-24T16:55:37Z",
+ "opgesteld": "2026-08-24T17:05:03Z",
  "site": "https://www.tijdafstand.nl",
  "generator": "tools/integriteit.py",
  "bestanden": {
@@ -27,7 +27,7 @@
   "assets/vendor/maplibre-gl.css": "792ac997dcf6ae6f643eb4e2dee4630c85e7056526bd8fb85ffe83c67d6c41b4",
   "assets/vendor/maplibre-gl.js": "07e6ca71a5b6d835a7c3803fb484f0a6e5f0dcbfa131407666edb9e9316564f9",
   "assets/vendor/pmtiles.js": "afc49d216fd24c0a3c0ff3cd2e0c62d6cdaf062854c3dced778dcab168824f79",
-  "config.json": "45f38e838387f35f6e2b4905c7cc1c8990b375d434b63dd4f46d434233c09efe",
+  "config.json": "0c121c6b170600abdb3e4563798826983910aaac364bec50de8b1a6e609fa649",
   "index.html": "160caa84a1e262653df718df751292c55fe1c936cd375e78f834d128503f6b7b"
  },
  "varianten": {
@@ -192,12 +192,12 @@
    "sha256": "ed7c7b27232c4f76229ff52e033b92c0d48ed91ab3ea44736cce4af6e25ef327"
   },
   "config.json.br": {
-   "bytes": 6190,
-   "sha256": "a945dcdd7bef9f092263fd7e10e1f116c54d07f27bea4a529ece6688c4abfa98"
+   "bytes": 6370,
+   "sha256": "acef4fe316cbb2edac3fcb792359e5dc0ff9e81b36a50b5a2a828ae04df3fd9b"
   },
   "config.json.gz": {
-   "bytes": 6763,
-   "sha256": "ba932b62cfd017b0d3a375c695d154831fbd8a84bc4ff28315d7e26b9638d359"
+   "bytes": 6966,
+   "sha256": "83785f8e1dfc156fd964388ca934ba43f59d670c920b6096873de95c1b5e4ec6"
   }
  }
 }
