@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    a8707463e68278785ca487c0ca616e5db4ae2a1d4d7712a728a4a12fef3e6c55
-# appBuildId 20260825T1818Z-a8707463
+# appHash    b777247527c76156121aba2779bd72e32e50393aaa439530cc4f48b2039d395d
+# appBuildId 20260825T1910Z-b7772475
 # buildId    20260825T1721Z-4e134066
-# opgesteld  2026-08-25T18:18:04Z
+# opgesteld  2026-08-25T19:10:07Z
 # bestanden  107
-# bytes      3702182
+# bytes      3703275
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -67,9 +67,9 @@ baab2b79f201b9e32823e26452d119a395a53a6ff6a88c5e5353a14dbc42398a       6430  ass
 648e56cc1b294a565505d48620f5f38e88271cc91a5a9d49651eed9df2478050      84094  assets/js/live.js
 b889596e9578c2298266510663489816d0fe5cbbc05084e116da495940e8448a      22954  assets/js/live.js.br
 49973bbb4701937cbe3e1d0a98ed2d6b36dd66631ec5613abdeb313f4865e829      25571  assets/js/live.js.gz
-962178d742fca8d2b48e054ed1b9dd05d2af7a05d5b8c701e88277fdd4e5b82b     145131  assets/js/map.js
-7d0682d8fa1c8c13f7893dc41ecc9ddd1f745cc69b13042109f23159d036ac5d      37937  assets/js/map.js.br
-7d9712c535a1426dac277405750c7865a731bfb1c51bedce2d27bf2186686f58      43515  assets/js/map.js.gz
+f2614e578d9dd77e58651a57184949556ac1296dedfb36c1e762e269ea0393c4     145774  assets/js/map.js
+6b21c8340232d6ad2df2debf6121d42fe460f7c4dff26e6f514e72baba7b7479      38130  assets/js/map.js.br
+038b86b435ccf2a972da33b26f4e066973a263ec41354c80dd6038a87e3c08ed      43772  assets/js/map.js.gz
 c33857966f85288175e866a300dd444c14dee0043b00e16d43a070669066efd2       9621  assets/js/router.js
 8e120b4d59ac1a5fd5de43d90f5a4a732a9de7bb4771804affcc32bde698a71f       3351  assets/js/router.js.br
 2130ddca47887d236efefe158e9442a33bd9affb01ce0b4c56b19c14777bf710       3570  assets/js/router.js.gz
