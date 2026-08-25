@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    2ad25b2e76db2185c54187c6eb458234c860223483577501cd400c8486f749dd
-# appBuildId 20260825T1950Z-2ad25b2e
+# appHash    60c85ccc0b76659ba963ac9188b750d7e3fedfee87fa009131a0ff7685be1d15
+# appBuildId 20260825T2118Z-60c85ccc
 # buildId    20260825T1721Z-4e134066
-# opgesteld  2026-08-25T19:50:08Z
+# opgesteld  2026-08-25T21:18:52Z
 # bestanden  107
-# bytes      3720496
+# bytes      3722304
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -40,9 +40,9 @@
 6bcadfe549e06d52da47918058079eaa38fa29e79dd3cbbcbf6c1841495cc458      52705  assets/css/app.css
 236095de0a54a9e4cb6cc91f943993c1585e077b33a57d82b50a72b1bb96ed74      11309  assets/css/app.css.br
 740efb12c9939c2a25c71ca2b8abc81ca4082b37034d499c1dd367a899e07f05      12700  assets/css/app.css.gz
-54971a56089cb984026b11c8cb3505ea82cf7d92e3691f2dc4ead1300586adab      97668  assets/js/app.js
-2f3871b4232dd45ebb70bb378beda0dac3b8590b21207bbaa8ec96aa18faadea      26513  assets/js/app.js.br
-111bd1657abaff1f3628e46af8a607a59dde498e5fa8ffb1d33e4ef17412c885      29984  assets/js/app.js.gz
+2349ab86aacfea05d0094c1429f61c97ee760bd983a1e4991bc5dafe5971d010      98387  assets/js/app.js
+76aa44d2da81171caeace37dcc89dc4c46e1eb7b8a3f2dc4b817b55fdceca7a8      26743  assets/js/app.js.br
+31c5f1f4afffe584b7dc3adc19ecc152fb2d31e6572876f5d10634a0d98041ef      30246  assets/js/app.js.gz
 5e3852b9936de22f659a20980b0ba56c613ebae113dd4ab1b9602a267b4343b8      52548  assets/js/cells.js
 87a2ed52a0a1a7fade923877df32c67b4fa896797004f63736c61c56d4f69ee5      14765  assets/js/cells.js.br
 b9ea16281b1e3bb9ce36ffc84543c702afbdb54b77d7eff86f527774e1089be1      16391  assets/js/cells.js.gz
@@ -103,9 +103,9 @@ cb75be2105556fc143e185135898a2d7fc419ab3afa0c56ef1cc0aa4a43089ce     203291  ass
 afc49d216fd24c0a3c0ff3cd2e0c62d6cdaf062854c3dced778dcab168824f79      19565  assets/vendor/pmtiles.js
 37832755d8e9cb92831793dea9d74323b444f0ec1a44aed09750ef5ffd35d80f       7059  assets/vendor/pmtiles.js.br
 ff61344893d7b76cc6bc3ca04fd1ff91f5017aed884f9373b3edb3cff0b569cb       7851  assets/vendor/pmtiles.js.gz
-8cef05cbe90b24502f08b4c48f847eea10a8680228d50e9995a0819b50a4160e      38498  config.json
-3b29a0771efb872d7ef0415f5c2733ba1024c709e0f16cf02436de6954a571f0      11360  config.json.br
-f856c4ed304e471e294f2bec0dd9f33059238eebc080745a951fda9d1b320125      12476  config.json.gz
+df93d61051cc8671f18701a45a05faa562c0396d4c84a28e414490a70df7c1be      38849  config.json
+b6a2cdc361b3d0f412f6955988cd55c0049bc99e3dc935f3d5e3761dfce51f7a      11470  config.json.br
+937c3f5205c7df41f8a4cb41feeb1b3d830f10e5e5b540af6db775ad08ce4f40      12612  config.json.gz
 38ee0df4ff8f05f26979488b453fa7f565417f7b44773002edb9d0a1d33c5c6c      80216  glyphs/Noto Sans Bold/0-255.pbf
 c697c835b410a244ac00a905cae3d22ad25196c9c351abdc9e43f12995af90fe      36558  glyphs/Noto Sans Bold/0-255.pbf.br
 db68f5b39893aa1581cdfde4ce674d0217771802545da3896abdf45901c87518      47926  glyphs/Noto Sans Bold/0-255.pbf.gz
