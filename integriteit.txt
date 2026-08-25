@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    1bd89b7ce4887bcd688e6d6bf7da96df79213d12773dda1e38c86df0994b90cb
-# appBuildId 20260825T1645Z-1bd89b7c
-# buildId    20260825T1139Z-41c69081
-# opgesteld  2026-08-25T16:45:37Z
+# appHash    6d418e01456c47a50f96391b1af0c6e6a6e3adb8f8a249e5517985b2e97016b6
+# appBuildId 20260825T1722Z-6d418e01
+# buildId    20260825T1721Z-4e134066
+# opgesteld  2026-08-25T17:22:21Z
 # bestanden  107
-# bytes      3693939
+# bytes      3693493
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -103,9 +103,9 @@ cb75be2105556fc143e185135898a2d7fc419ab3afa0c56ef1cc0aa4a43089ce     203291  ass
 afc49d216fd24c0a3c0ff3cd2e0c62d6cdaf062854c3dced778dcab168824f79      19565  assets/vendor/pmtiles.js
 37832755d8e9cb92831793dea9d74323b444f0ec1a44aed09750ef5ffd35d80f       7059  assets/vendor/pmtiles.js.br
 ff61344893d7b76cc6bc3ca04fd1ff91f5017aed884f9373b3edb3cff0b569cb       7851  assets/vendor/pmtiles.js.gz
-29a3ca3485ac128d5c1c33cf58ab35108ed3542d642658611b370e451bf1ac19      37189  config.json
-701f5f4ced9ee7ae8812db5c16d7258e241c1af728dd81dd0945f1262e839f0b      10934  config.json.br
-2a9b90a221d2ef150bbe750784d042cd6abed41a47259c65b2ef4925a050a6bc      12053  config.json.gz
+96bf673acf876bfab5f461d4dee4178272cef3cf773b83d609bac907be0022a7      36995  config.json
+dc13b6c8da11b99137b3f54ba1efb81825a33885b35c476f6b2a823eb8237384      10820  config.json.br
+eedff611b43a6de9ef8b689b82e748430b42eac53f3ec004bdca711949db9312      11915  config.json.gz
 38ee0df4ff8f05f26979488b453fa7f565417f7b44773002edb9d0a1d33c5c6c      80216  glyphs/Noto Sans Bold/0-255.pbf
 c697c835b410a244ac00a905cae3d22ad25196c9c351abdc9e43f12995af90fe      36558  glyphs/Noto Sans Bold/0-255.pbf.br
 db68f5b39893aa1581cdfde4ce674d0217771802545da3896abdf45901c87518      47926  glyphs/Noto Sans Bold/0-255.pbf.gz
