@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    9996c67da9f838dfd27754ead2f1c9cc4147a6a759f39bb0af2a9af14fa55883
-# appBuildId 20260825T1446Z-9996c67d
+# appHash    77be94002626980a9b36cd0f8faa81ad89ee3bb42d5c1cefa5aba8926055dac8
+# appBuildId 20260825T1453Z-77be9400
 # buildId    20260825T1139Z-41c69081
-# opgesteld  2026-08-25T14:46:54Z
+# opgesteld  2026-08-25T14:53:12Z
 # bestanden  107
-# bytes      3664479
+# bytes      3665126
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -52,9 +52,9 @@ e81e37f48c91fe1824a01425fb9faad354341eed8b906a0287953edb43d7c515      22770  ass
 6f3e5873ccf5a7c8b8cb95527e7f8e4b40cf6270689cbd092dafbfca702fd0f7      15083  assets/js/format.js
 abdf3ab8b2609819829a21286392667a10c8059a3996847be45ea43bbb5f3776       4506  assets/js/format.js.br
 afeef23a297cdcee2eea6aeac1454e284799776fe31294d3e0b29d0028bd658e       4942  assets/js/format.js.gz
-11bb01a04ddef56249f8e060f7c3c49a9d5c46a395ec8d73ed0c205f23015f97      22185  assets/js/geoworker.js
-ab5e91cfe02ceb94bd951df25cbb6e02622e34417a4de863a9fdb9afe2650286       7049  assets/js/geoworker.js.br
-e653a5efc621876950c259c24d94383f44355d49d9fcef0323c72a0c3852ae24       7655  assets/js/geoworker.js.gz
+84f463e257c5fafc72f79c314edc6e73bd0e00972fcacb1ab2bbc91a4463178f      22525  assets/js/geoworker.js
+e161d5500497bebad57f25a976212057e234867976de4c5d85a393a16646f4f9       7193  assets/js/geoworker.js.br
+da7c9aa6f52acc496065b96223588e40e9635ab62e6e3c956a9d6f279645d9a0       7818  assets/js/geoworker.js.gz
 3b4ebfc91baa94db1860d87da2c1da4e4dcbaffe2e91a3e50fde722b102bca40       7140  assets/js/grid.js
 71e80bfedc99a1355225b119b41dd68f17a506ead6afa9211b485c1aa392befd       2609  assets/js/grid.js.br
 ec20413d281a1989cddca75d9b4b5a92978d7440a826d7be8d0d2ccd719ac0d0       2801  assets/js/grid.js.gz
