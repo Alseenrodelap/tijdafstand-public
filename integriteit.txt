@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    b53334172c8c5b720fac153f3e778e73d0d3a3a19981443ab04ec00b05c1f2dd
-# appBuildId 20260826T1631Z-b5333417
+# appHash    85fba9dea082e3fb287546e6ea006ff1b4258c25d8a5674ba411d4274df2a6d7
+# appBuildId 20260826T1637Z-85fba9de
 # buildId    20260825T2211Z-f6c9c340
-# opgesteld  2026-08-26T16:31:14Z
+# opgesteld  2026-08-26T16:37:26Z
 # bestanden  108
-# bytes      3838451
+# bytes      3840910
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -61,9 +61,9 @@ ec20413d281a1989cddca75d9b4b5a92978d7440a826d7be8d0d2ccd719ac0d0       2801  ass
 83baa68fc2af2a332830642700e91045f97e12088be81dabc2985a1475392d57      32344  assets/js/integriteit.js
 8c5d09b12a4fb3dcf86d49694cbee669fdad38ce3328c7930b6005d78cdcfd2f       9999  assets/js/integriteit.js.br
 cf7518f4799dcbd2f21a2adbe8ef98e8c5cd2e35490003fe6097a14b79e4d284      11012  assets/js/integriteit.js.gz
-bb871b06425d38c6734e0c4e72c6aa3a3c83b9ed5b2b27b6d135fda907f5c379      20776  assets/js/isochrone.js
-2b1355e3f1b79538cab54c5318c98f38ae029e8397b86d8ae9371ad8c13ec85d       5843  assets/js/isochrone.js.br
-baab2b79f201b9e32823e26452d119a395a53a6ff6a88c5e5353a14dbc42398a       6430  assets/js/isochrone.js.gz
+8292bee6364c6df479ed8326d3af2e7a607270b5f69f1ac3f136eadbd637104a      22129  assets/js/isochrone.js
+57cc1fa63ad0c259812a18c92cd2407c707199e02a2e3de982bbe51f290a7d53       6376  assets/js/isochrone.js.br
+999e00ba858aea76548fcc7a8230e5662e010f98bf0356fcbb5219f71aa07967       7003  assets/js/isochrone.js.gz
 648e56cc1b294a565505d48620f5f38e88271cc91a5a9d49651eed9df2478050      84094  assets/js/live.js
 b889596e9578c2298266510663489816d0fe5cbbc05084e116da495940e8448a      22954  assets/js/live.js.br
 49973bbb4701937cbe3e1d0a98ed2d6b36dd66631ec5613abdeb313f4865e829      25571  assets/js/live.js.gz
