@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    d66fd4731f8f32d64ef12581f787db35a6b803ce0a32abd03f64bcdd97a92995
-# appBuildId 20260826T1900Z-d66fd473
+# appHash    d0ebffb0ee181aea1d3e41403d8a2ef9f7229f643b4042b50eee7d3e4bbc7bbd
+# appBuildId 20260826T1911Z-d0ebffb0
 # buildId    20260825T2211Z-f6c9c340
-# opgesteld  2026-08-26T19:00:58Z
+# opgesteld  2026-08-26T19:11:41Z
 # bestanden  108
-# bytes      3862846
+# bytes      3873636
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -46,9 +46,9 @@ d4f6ea88148904ef2fa4a8d25227fb90852775001291f056e60bb47e637be2a7      33568  ass
 5e3852b9936de22f659a20980b0ba56c613ebae113dd4ab1b9602a267b4343b8      52548  assets/js/cells.js
 87a2ed52a0a1a7fade923877df32c67b4fa896797004f63736c61c56d4f69ee5      14765  assets/js/cells.js.br
 b9ea16281b1e3bb9ce36ffc84543c702afbdb54b77d7eff86f527774e1089be1      16391  assets/js/cells.js.gz
-180139bb0ff58ab110e15091b169f593d72dee42afc1c119cf757098344352f0      74480  assets/js/engine.js
-9707860cf17e3397e480a837c273ee51b8cd604b009e45d4f9948d9a3ee5890c      21622  assets/js/engine.js.br
-159ddf40b8f92b4eed3ec77c269c70adf25fb7242daeca1123527f62fdf502ee      23869  assets/js/engine.js.gz
+d3dadb21fd3ce0d6cea519794d0e45e2ca771b6a37b12fa28fb30103ec8ed07a      77461  assets/js/engine.js
+ee543eabbcaef82d78b93315074a89af1b0b6d08f105fc2895801586cf6b62ec      22398  assets/js/engine.js.br
+786b73c35d775793b12013879138b822e3bdadcecb89da6df6ab56b03efada45      24792  assets/js/engine.js.gz
 6f3e5873ccf5a7c8b8cb95527e7f8e4b40cf6270689cbd092dafbfca702fd0f7      15083  assets/js/format.js
 abdf3ab8b2609819829a21286392667a10c8059a3996847be45ea43bbb5f3776       4506  assets/js/format.js.br
 afeef23a297cdcee2eea6aeac1454e284799776fe31294d3e0b29d0028bd658e       4942  assets/js/format.js.gz
@@ -61,18 +61,18 @@ ec20413d281a1989cddca75d9b4b5a92978d7440a826d7be8d0d2ccd719ac0d0       2801  ass
 83baa68fc2af2a332830642700e91045f97e12088be81dabc2985a1475392d57      32344  assets/js/integriteit.js
 8c5d09b12a4fb3dcf86d49694cbee669fdad38ce3328c7930b6005d78cdcfd2f       9999  assets/js/integriteit.js.br
 cf7518f4799dcbd2f21a2adbe8ef98e8c5cd2e35490003fe6097a14b79e4d284      11012  assets/js/integriteit.js.gz
-9b3ae5bcb482f5a47ccaacff5d8d58cabfe3f894b5555f0a70fddc1b9d0f3df5      23225  assets/js/isochrone.js
-81543592fd90ccf917841c97b3e4a18da11bac4f92b3bdcc63ea15f90cb24183       6768  assets/js/isochrone.js.br
-a306514091edc99b867c42848592ee9b527e0129f545581c45bf842363e8b716       7414  assets/js/isochrone.js.gz
+beaa0f67234a75529d738f77f98c748cbe8cb08d3f7380e65fc2652c56617bd5      25208  assets/js/isochrone.js
+46f42f922e79e45c1d62f5b0a8f5d4d01a1e0d74e3c7db40c5d3e03e09f9aa1a       7331  assets/js/isochrone.js.br
+7325f041acfaf3d6d009d4ce6ecd418904497689b13ec2099e25e7ccd9cbed15       8043  assets/js/isochrone.js.gz
 648e56cc1b294a565505d48620f5f38e88271cc91a5a9d49651eed9df2478050      84094  assets/js/live.js
 b889596e9578c2298266510663489816d0fe5cbbc05084e116da495940e8448a      22954  assets/js/live.js.br
 49973bbb4701937cbe3e1d0a98ed2d6b36dd66631ec5613abdeb313f4865e829      25571  assets/js/live.js.gz
 2ad255279ab119dd717e1369d778bcebcf7a17816529a94c1a73dfecf389a33c     181995  assets/js/map.js
 470873a842ff60f1a411f3a0537b8be3b2aad13e14862182b9e009857cde02f9      47926  assets/js/map.js.br
 ae42d3c6bbc62a181c6ff9b6ac38e3c99bc77c1c0d910f9c3b427ad15d53e943      55269  assets/js/map.js.gz
-c33857966f85288175e866a300dd444c14dee0043b00e16d43a070669066efd2       9621  assets/js/router.js
-8e120b4d59ac1a5fd5de43d90f5a4a732a9de7bb4771804affcc32bde698a71f       3351  assets/js/router.js.br
-2130ddca47887d236efefe158e9442a33bd9affb01ce0b4c56b19c14777bf710       3570  assets/js/router.js.gz
+a7b8e02eb94b7bed913589f81d052092d7c3381ec845bfaebd861809d3479dd6      11350  assets/js/router.js
+af525e1b9e30e8e64f14f2f81223adb6f07d2a1c3b6ec290830ccf314198c21d       3933  assets/js/router.js.br
+9795da61ee78dfc7f62479dc46c769cc04e3681b72ca3d55fe7f90d6ab5e882f       4194  assets/js/router.js.gz
 5a5fb4c43db9bb652c518a8b76bdaf23125cea34eed896ef8eda210ed61efd0e       9710  assets/js/search.js
 dd65ecb6c8174dab9e0b323eea4a0976298087743666148d069d4d353b458bdf       3255  assets/js/search.js.br
 0782e0001d17868477d572facf1b404194177aad07c8abd3c7338edc9f50ed7c       3528  assets/js/search.js.gz
