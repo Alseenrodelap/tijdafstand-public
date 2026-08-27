@@ -12,7 +12,7 @@ niet vanaf die webserver te wijzigen.
 
 ```sh
 curl -sO https://raw.githubusercontent.com/Alseenrodelap/tijdafstand-public/main/integriteit.sha256
-curl -sO https://www.tijdafstand.nl/assets/js/app.js
+curl -sO https://www.tijdafstand.nl/app/assets/js/app.js
 shasum -a256 -c integriteit.sha256 --ignore-missing
 ```
 
@@ -28,4 +28,4 @@ zichtbaar maken voor iedereen die kijkt — en dat is precies waar zo'n lijst vo
 is. De volledige afweging staat in `docs/DREIGINGSMODEL.md`.
 
 ---
-build `20260825T2211Z-f6c9c340` · appHash `4cb7ca92c692e40344a3b24b8cad4a14cf2094a168baf5bdc1227cdb79396f3b`
+build `20260825T2211Z-f6c9c340` · appHash `da5808c8b21939acbf28266bb15af0086206f5573ff2b9b3445ac324c541783a`
