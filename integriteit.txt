@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    565ecb078d570db9d05ce262ad1a0e080d7ee55647cbea9cdaee4d9c3f34f86d
-# appBuildId 20260827T1857Z-565ecb07
-# buildId    20260827T1253Z-66248c95
-# opgesteld  2026-08-27T18:57:35Z
+# appHash    40dc46d37aaf6cbb0344a0fc9fe6efb37d0a2ae4363fa49ba06f5a979af6f5a4
+# appBuildId 20260827T2131Z-40dc46d3
+# buildId    20260827T2126Z-e46514be
+# opgesteld  2026-08-27T21:31:54Z
 # bestanden  111
-# bytes      4277636
+# bytes      4291495
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -40,18 +40,18 @@
 7f4729a54ee6222dc39f43bb76214774d716bab93b5aec7d19f429ca10ab9155      83030  assets/css/app.css
 fec6f741e42ce409098aec5f7c854fe9217971bfe38af46958830509dd6634e5      18255  assets/css/app.css.br
 75986d5a5c53988184fcdb782b4f056e8ded4c003b30d6fa92d47077c4d8816c      20777  assets/css/app.css.gz
-32ca68a49e21df9bb24b417810fe35a65c792d26c2c78c0c4b64693364df7d06     177046  assets/js/app.js
-695cc340c9e1c66dc2357ef74ec7102fe0a4bca55b1dd4fde3c07b92c691c287      46424  assets/js/app.js.br
-3c3834b54435e5d1e2693d95b121604cbed2fa5aa503231819314a225c65f15b      54186  assets/js/app.js.gz
-0a7346c0e92112f4cd9812ae9a0b16a517142490a265c12381ba7ccd242119bb      65488  assets/js/cells.js
-7ecd36d1453cdac89f3aed32fcd08fcdb685c118ec216799262cc19f4fd782cf      17837  assets/js/cells.js.br
-75e601a00fa6ea9b4f9aeb7e656b133ac8d6432ccefe2efeef98fec613b2e881      20390  assets/js/cells.js.gz
-800f49a1142e28c2d4aba6e3779e86d229e9c5c87350abaa025a1091e1d20f84     114387  assets/js/engine.js
-d0774f44b1c169e3904359c29fc2b1fc8e2c25af7d0bbe880c12aedcc5966d7f      32061  assets/js/engine.js.br
-39c0076d91a69fd23b787b41a702aaf6dbdc373e520faf923e3998f81241f193      36184  assets/js/engine.js.gz
-6f3e5873ccf5a7c8b8cb95527e7f8e4b40cf6270689cbd092dafbfca702fd0f7      15083  assets/js/format.js
-abdf3ab8b2609819829a21286392667a10c8059a3996847be45ea43bbb5f3776       4506  assets/js/format.js.br
-afeef23a297cdcee2eea6aeac1454e284799776fe31294d3e0b29d0028bd658e       4942  assets/js/format.js.gz
+8ab3372e91cd5d0ed01dfb0cf7ccee5aca5e0726bad1c299c6262438098340e6     177663  assets/js/app.js
+eae75767e7edb9e7516f759094980467e17a5691f67a22f1166f0592d8258537      46632  assets/js/app.js.br
+452f4ec3367c5c4db2cea38a44c279f0e839a24a4fabe2bd9cf0ad1d4d652475      54425  assets/js/app.js.gz
+ffb062b280d89a17c2f02ea9ccd2c17b4b8aee31a820fc823dd6779729ec285e      66719  assets/js/cells.js
+c8cdf9742c24f4262c1f10a83a18134559d876233d247185a2b5fbdfa39e828b      18213  assets/js/cells.js.br
+75b57468b88294fbc31893ed993350406f17ca843633d4cdd033fe97f7d4dfda      20818  assets/js/cells.js.gz
+755728aa1f235dded3e022d4df494b5f312e45200041c1449c6494862535327c     119109  assets/js/engine.js
+41329dd624edc43601e0d15b4702de1ef2b9dc8da161d1d0663853a49967fab2      33380  assets/js/engine.js.br
+839d174788e27cba0fd95a1ddf068ecc56e920ebf35e5feabddd26dd3598e0ff      37615  assets/js/engine.js.gz
+98934db98f54605cd92f3a9ba93674fc83d20186096cbb62308bf68e248a21d9      16332  assets/js/format.js
+a5b565a76d1386f6aa65138ab9c8fb07a78c26e87e877b477409e7240518beb7       4840  assets/js/format.js.br
+729ed6012b704710021ba436aa3d8dd6f989e8f83771cc10fe17144b83aa8144       5305  assets/js/format.js.gz
 6abc11982b60496647f982493607d0386c79ae272ab315e67856755b1487ca8d      33441  assets/js/geoworker.js
 eb3859c73ecc2170d4c239386698a0f9c57e69c336f176d6af68c4c84e542c51      10538  assets/js/geoworker.js.br
 e5e572dbedcb8a2ec5f34a7ba8d61ddd376909336f4597ee7754d4c5e8e3bd27      11456  assets/js/geoworker.js.gz
@@ -67,9 +67,9 @@ cf7518f4799dcbd2f21a2adbe8ef98e8c5cd2e35490003fe6097a14b79e4d284      11012  ass
 648e56cc1b294a565505d48620f5f38e88271cc91a5a9d49651eed9df2478050      84094  assets/js/live.js
 b889596e9578c2298266510663489816d0fe5cbbc05084e116da495940e8448a      22954  assets/js/live.js.br
 49973bbb4701937cbe3e1d0a98ed2d6b36dd66631ec5613abdeb313f4865e829      25571  assets/js/live.js.gz
-e69723cf877277049024ff8dca70f8ca322e72a87d4fb9d811ee76d1d348f733     233550  assets/js/map.js
-130aa37b4ba4e980f1657b7832860c899d3cbe94d920d5d30750b0a968b5c6e2      60029  assets/js/map.js.br
-a57961e0032d3aea7d2e392907fb9b0e09ed7751bb520dbea86f639681af531e      70413  assets/js/map.js.gz
+806796b943b443ef4926f846b35ef67b5e01b92ec97a17f38669b4bae90a1c0c     234183  assets/js/map.js
+091518b35c8ab326a41b377ad12f7e932ba7262ad93f2a830c05c9ee5e167fac      60273  assets/js/map.js.br
+305d05242b006eabd9888688a8b159bb9f2576a2d6062f55395eefbc9a23fc4c      70671  assets/js/map.js.gz
 7b31bd60f0a4f71a2c8da43888ecdbad678f5f29b99628f05440d3f599f57b43      21406  assets/js/route.js
 bfa848ae141d07f05e7cebe457e99899c9df7f7e4b4d99bd3e60fed02b330102       7456  assets/js/route.js.br
 fe26d7c15617ab3b90e56dddc634cadb4b40b3cd12bf6edcf5b3fdd0dcd7c78e       8033  assets/js/route.js.gz
@@ -106,9 +106,9 @@ cb75be2105556fc143e185135898a2d7fc419ab3afa0c56ef1cc0aa4a43089ce     203291  ass
 afc49d216fd24c0a3c0ff3cd2e0c62d6cdaf062854c3dced778dcab168824f79      19565  assets/vendor/pmtiles.js
 37832755d8e9cb92831793dea9d74323b444f0ec1a44aed09750ef5ffd35d80f       7059  assets/vendor/pmtiles.js.br
 ff61344893d7b76cc6bc3ca04fd1ff91f5017aed884f9373b3edb3cff0b569cb       7851  assets/vendor/pmtiles.js.gz
-5cb60d170aa752e669023719f07e7a903ded3ba1dae4175d9eb5781f5dc6a5cb      43564  config.json
-34552aa5105fc78b41ab73758ab7a4cdadfa1af694f0d43e74858579485e67ff      13472  config.json.br
-e48e643dddb78a216470e9f32d83be206f502596c3f4c9b7671fe11d651c0244      14746  config.json.gz
+9babe06fd1ed9f970451a4edede4aedc96cf106b9acd423f670084a5e7f7c876      43702  config.json
+421d52379fc0c8d18685db9ea16c292e20649f73ec7b3387bfd15894a5afcda1      13506  config.json.br
+7bebf0e5eb800f407885965796991661d819e9dff185aac17428ce3b230d170c      14781  config.json.gz
 38ee0df4ff8f05f26979488b453fa7f565417f7b44773002edb9d0a1d33c5c6c      80216  glyphs/Noto Sans Bold/0-255.pbf
 c697c835b410a244ac00a905cae3d22ad25196c9c351abdc9e43f12995af90fe      36558  glyphs/Noto Sans Bold/0-255.pbf.br
 db68f5b39893aa1581cdfde4ce674d0217771802545da3896abdf45901c87518      47926  glyphs/Noto Sans Bold/0-255.pbf.gz
