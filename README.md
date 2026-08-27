@@ -28,4 +28,4 @@ zichtbaar maken voor iedereen die kijkt — en dat is precies waar zo'n lijst vo
 is. De volledige afweging staat in `docs/DREIGINGSMODEL.md`.
 
 ---
-build `20260825T2211Z-f6c9c340` · appHash `da5808c8b21939acbf28266bb15af0086206f5573ff2b9b3445ac324c541783a`
+build `20260825T2211Z-f6c9c340` · appHash `d10e0abded323390f19036f01b098b28b3a5502ac350d68706737cbf3d913be0`
