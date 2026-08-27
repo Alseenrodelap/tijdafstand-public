@@ -27,28 +27,28 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    99e4e76c99b1430aa9ea12b5a55449652c351bdc1cc228dbc4bca0a6a87de487
-# appBuildId 20260827T0749Z-99e4e76c
+# appHash    09fbf559bb7ccc3ba9434085fc22db76093d197c9476307ac70552d3de027167
+# appBuildId 20260827T0818Z-09fbf559
 # buildId    20260825T2211Z-f6c9c340
-# opgesteld  2026-08-27T07:49:08Z
+# opgesteld  2026-08-27T08:18:53Z
 # bestanden  111
-# bytes      4047763
+# bytes      4063037
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
 # sha256                                                              bytes  pad
-bfbc0d2b7e3e8a2385c71dcf956c79e24981ecfdcc63c60605d513da868616bd      67380  assets/css/app.css
-8e2efeadd3f0742a612f4ac2cf8716145b41aaed50bdf35df19cb72e32a0cbe6      14782  assets/css/app.css.br
-367407e062d1f13b9d5f7257d6d4de8283f7709365d80647309403e0dbf13429      16765  assets/css/app.css.gz
-e3958ee361346a2ad1aebc37b5d948d0f9a731bfb0b1a4e2536bfcb3e84fbbd6     142203  assets/js/app.js
-ac61a22796c42d5cce19cb6cf86e333498a106b85015fda223e5edce646cc07e      38093  assets/js/app.js.br
-1e0e18f357ddc8b9955e086994a301e80cac7add49cc63cf114b83cf9b6eb42c      43818  assets/js/app.js.gz
-5e3852b9936de22f659a20980b0ba56c613ebae113dd4ab1b9602a267b4343b8      52548  assets/js/cells.js
-87a2ed52a0a1a7fade923877df32c67b4fa896797004f63736c61c56d4f69ee5      14765  assets/js/cells.js.br
-b9ea16281b1e3bb9ce36ffc84543c702afbdb54b77d7eff86f527774e1089be1      16391  assets/js/cells.js.gz
-7e2dcb784f7d35ca83c566dc4d6e8f2a2735177159b287ce2f638aedee049c31      91556  assets/js/engine.js
-2d2689cdddbcfd17136f12428e98e28158e95eb6f75c50da0a9e410d7242d852      26192  assets/js/engine.js.br
-0c8c6ff5fa522558bfd749b1bc54a3bdea2237872dac10aa23112d4ebdb376ca      29187  assets/js/engine.js.gz
+e25a9ba1fd67f6ca8b9e172240b8fe4b82e8ecbffd66afb99fb18509019aadac      68491  assets/css/app.css
+479611ed66e37c6205088d11337744e4de4e8e3ed3977d95a2b98a5a28285690      15054  assets/css/app.css.br
+caf289af16e624f560f8ae5267cfc7576c73b8156da86c250cb0d58b831f14a1      17088  assets/css/app.css.gz
+9bee707815130998a5676e74af24eef66699519311d8368ef59ff0aa877862bc     142910  assets/js/app.js
+5236ec0508abd983ad068b7d7c917aaab2240b30e754e909079cca6028157ef0      38254  assets/js/app.js.br
+7e22122c5affa22b07a12f55e95062daecb49dc2c0d6db950d35bda5ee98d4d5      44029  assets/js/app.js.gz
+9988c8d21af6e58b29aebf18ee0c32a8a526843d58a48b7458d17979d1e42faf      54590  assets/js/cells.js
+38658749e6ae8126f0142f133177da188e64811275f8aa845eecc9134085d56b      15202  assets/js/cells.js.br
+a1004722ccc9f0a62f4f4accd9e060bd96633a6a84b4a03096fa2e6d88ed0fb7      16869  assets/js/cells.js.gz
+6ec8acba2c3de7a3dab06ba86e90ed80fa4e1746830fb62c998cbcc415a9b879      94095  assets/js/engine.js
+78349a3f1fb6c9124adfe3ddf8e05572e3553ada8fa9ad9f7948480bad4a5561      26786  assets/js/engine.js.br
+5d0944c5e5e7edbf93185a263a871ed01ac74371cfc8b9b2f8d89e6a0701d4e4      29939  assets/js/engine.js.gz
 6f3e5873ccf5a7c8b8cb95527e7f8e4b40cf6270689cbd092dafbfca702fd0f7      15083  assets/js/format.js
 abdf3ab8b2609819829a21286392667a10c8059a3996847be45ea43bbb5f3776       4506  assets/js/format.js.br
 afeef23a297cdcee2eea6aeac1454e284799776fe31294d3e0b29d0028bd658e       4942  assets/js/format.js.gz
@@ -61,9 +61,9 @@ cd4177b41896e9a3b0a4c27ccbe428581be9bdacd4b300e5e32089d53c4f753d       3522  ass
 83baa68fc2af2a332830642700e91045f97e12088be81dabc2985a1475392d57      32344  assets/js/integriteit.js
 8c5d09b12a4fb3dcf86d49694cbee669fdad38ce3328c7930b6005d78cdcfd2f       9999  assets/js/integriteit.js.br
 cf7518f4799dcbd2f21a2adbe8ef98e8c5cd2e35490003fe6097a14b79e4d284      11012  assets/js/integriteit.js.gz
-cd07a4c1631e4bd99fee396e3fedcd8036dff3c3db323401f84f2c105612f893      29151  assets/js/isochrone.js
-f15cf63b45c73a6d8b37f7535e4fb4f68327448bb091c562e850236f2a2f88e6       8644  assets/js/isochrone.js.br
-e019fe59c0105eb99b6f10e431f58dae393b4450f4fcfa0f7a8f972d8f8ae13f       9400  assets/js/isochrone.js.gz
+3c8ed12d0f0babf95610864e6347a0fc050b88af5c8c3e40f819592f6cab4480      30931  assets/js/isochrone.js
+00b926afeb05b9243921d0b0ef7b4313b6384de8c374df6b407261a83d99227b       9091  assets/js/isochrone.js.br
+3eb0a5efa564916fe8b41cca6654a62dde6a247898d1449e5591188440055aa7       9934  assets/js/isochrone.js.gz
 648e56cc1b294a565505d48620f5f38e88271cc91a5a9d49651eed9df2478050      84094  assets/js/live.js
 b889596e9578c2298266510663489816d0fe5cbbc05084e116da495940e8448a      22954  assets/js/live.js.br
 49973bbb4701937cbe3e1d0a98ed2d6b36dd66631ec5613abdeb313f4865e829      25571  assets/js/live.js.gz
@@ -91,9 +91,9 @@ a7330582d68bba160a5ca5a6688d87221fc124a063b4f3d41e62875f71cd90e5       7626  ass
 975e501b0d8d6d45eafa6a3ddbb465074c907b48fbe950fb4af0578de61666ae      10958  assets/js/ui-demo.html
 05eec00fe8ec2e5b9d687d8ad02661bcc9c906171343a6b2fcfb7fa9d151fbd1       3800  assets/js/ui-demo.html.br
 53165129506746bad75043e96868be775b163548019221fa9905083036186818       4414  assets/js/ui-demo.html.gz
-798bc57318873ab9ccee7f38c66cc9ffb27fe6f1928ff5fc9cab9f7c38270108     152343  assets/js/ui.js
-84a013c70a1610f3c60063fcfa9edc19bcf573fd2da55190aceeb7328f351cfd      39351  assets/js/ui.js.br
-79067981b90a3caa88ae5b77d732c6807eae8eef01769d8a467158042e087eba      45221  assets/js/ui.js.gz
+a0777a5ac1e880586cd9a519df68fce0229a25937f420f01fbb38eb94ec62129     154061  assets/js/ui.js
+59b9484ea83d1b0f00f5c9563e6297e01d575e805521e322aa587da628e726b3      39776  assets/js/ui.js.br
+9296e861776412db60bb7caa3e381f899efff0fb01695fff34cbf477e1ce2f3e      45695  assets/js/ui.js.gz
 620f5c894bff75a3dc97e696fa9aee7c2fb1ed04ee919a0fadbc6d5237bb4ea5      20267  assets/js/vertraging.js
 21a5a65b9f18560b68ca366f73b73382bed7042f973f254e841463b3c1e88204       6701  assets/js/vertraging.js.br
 5356419d1a1467a0bbaab3c354f5ba5498466b3c70f0b999ae127147944bfcb5       7242  assets/js/vertraging.js.gz
@@ -106,9 +106,9 @@ cb75be2105556fc143e185135898a2d7fc419ab3afa0c56ef1cc0aa4a43089ce     203291  ass
 afc49d216fd24c0a3c0ff3cd2e0c62d6cdaf062854c3dced778dcab168824f79      19565  assets/vendor/pmtiles.js
 37832755d8e9cb92831793dea9d74323b444f0ec1a44aed09750ef5ffd35d80f       7059  assets/vendor/pmtiles.js.br
 ff61344893d7b76cc6bc3ca04fd1ff91f5017aed884f9373b3edb3cff0b569cb       7851  assets/vendor/pmtiles.js.gz
-345434f7bd78532d61cb7b1e8e378538e2112d6d26ce0227006f56364ebd1c4d      42748  config.json
-bbad0db97262070fb8659f4448f7f2e84d23e3b583c095b913e7f9032028f451      13217  config.json.br
-19a2755e69433268915f5b2fb7ed33482e55fdcf5ffd110574b33e705629f9ed      14480  config.json.gz
+f0fe9e1e8c32809926dd0aa31103fd1db5dfd51a2357b39345392832de84a2ec      42949  config.json
+e37227d66b4211b61d9ae1bdc2fa7b8c55ff3b7a0ea719e4e97ab15e7d5aa961      13246  config.json.br
+509908ffb89058da05fdb0555c8475f5ee134e0ac5e1916c90e8bf161c9f511a      14519  config.json.gz
 38ee0df4ff8f05f26979488b453fa7f565417f7b44773002edb9d0a1d33c5c6c      80216  glyphs/Noto Sans Bold/0-255.pbf
 c697c835b410a244ac00a905cae3d22ad25196c9c351abdc9e43f12995af90fe      36558  glyphs/Noto Sans Bold/0-255.pbf.br
 db68f5b39893aa1581cdfde4ce674d0217771802545da3896abdf45901c87518      47926  glyphs/Noto Sans Bold/0-255.pbf.gz
