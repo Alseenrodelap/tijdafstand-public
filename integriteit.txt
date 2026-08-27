@@ -27,19 +27,19 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    ef6c54e6b100d3f8555672cd99a5ab433c133e0cabe8ab0ab61d5cd91ba8c5a9
-# appBuildId 20260827T0640Z-ef6c54e6
+# appHash    3d3dc579f62e8646c3bd6dec3cd3737082d4d6ede2d873ef370a2a00cf89e3df
+# appBuildId 20260827T0703Z-3d3dc579
 # buildId    20260825T2211Z-f6c9c340
-# opgesteld  2026-08-27T06:40:01Z
+# opgesteld  2026-08-27T07:03:22Z
 # bestanden  111
-# bytes      4012144
+# bytes      4015967
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
 # sha256                                                              bytes  pad
-4b0fa14ad7b89db249c1ec162f83a2a97abdd7068839952be5885d3c6598bf26      64136  assets/css/app.css
-feba53be9f76126fa49d2d5b4b233276162025974ce2dd3237055925ec8a588a      13834  assets/css/app.css.br
-b4eabb005946c996d6bb64a7780716e992b727410e73d6cfda994e13dda6297b      15681  assets/css/app.css.gz
+9db672d5faab090a5c2bdcf3fb1ebce79e95728c667bb391b4c6314453c57e08      65660  assets/css/app.css
+034df47d5a4553093eafa4dd1567fc86ba112c2270800ab5b68a0a95cf5d104f      14401  assets/css/app.css.br
+72cba4572b1f33bc0a7cabbcf55b9c9ab61ebdded7fe2463ee1ea910cb735cef      16290  assets/css/app.css.gz
 8bab4ea7fd47dfe162a3919a90542ccee4aa3a681d40a1efd35158937ae12466     139169  assets/js/app.js
 216220d8888d27f4a9ece12230cbeaa673ad02d7824aced66fa20318fb01df9c      37351  assets/js/app.js.br
 e749429ec9e7580435d8aba37dd1377c211633b853dd6c3d0de083b30d0e5e71      43019  assets/js/app.js.gz
@@ -67,9 +67,9 @@ e019fe59c0105eb99b6f10e431f58dae393b4450f4fcfa0f7a8f972d8f8ae13f       9400  ass
 648e56cc1b294a565505d48620f5f38e88271cc91a5a9d49651eed9df2478050      84094  assets/js/live.js
 b889596e9578c2298266510663489816d0fe5cbbc05084e116da495940e8448a      22954  assets/js/live.js.br
 49973bbb4701937cbe3e1d0a98ed2d6b36dd66631ec5613abdeb313f4865e829      25571  assets/js/live.js.gz
-c35afcda1b93f75000a82d27250101df0600afe021ff7f2cb6fd8086ed0a283b     199874  assets/js/map.js
-2c068c581f3a698ba74f0f2b0c02b0d891a0694a4438543f0b75e160066a83ab      51459  assets/js/map.js.br
-324e7adb8de8e1ab7295a27d30c103ff651484d3c04ccbce5cefbbbed8ab3c85      59844  assets/js/map.js.gz
+2e15bce439a83807f7e3481ce737e79cbb642bf4fc007d45846bcb5cebc197c9     200629  assets/js/map.js
+bcc07d8fb7ca24c0bcc765f25141ac5a1c67b1f157482e982fa54adeecc65384      51590  assets/js/map.js.br
+c774360cf059c3a1a9dac91c3084cb42de30c426a7ad9dcadbda9979f4bbf2a9      60081  assets/js/map.js.gz
 9b732365b75e2fd985648ca15143f92462ce22fa12d5ceb6a4948d02970f7abf      17259  assets/js/route.js
 1f09a9ab877176260bf87d13659e14d2c6d3623d7742b98b513d27adfc761367       6093  assets/js/route.js.br
 a5e0ce4e2c71dc492ec54a6aae2e4bdf4f1aebac572f37cdde27f6d50ffdc1e7       6546  assets/js/route.js.gz
