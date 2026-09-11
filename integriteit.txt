@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    79b10283e7cdb0b79062ab3c0f1dd477030ae46fff09f33d83643887d4b36388
-# appBuildId 20260911T1627Z-79b10283
+# appHash    b9fdbbbf2696d5d9848c258db368abe9cf23c75c3f16f78b5793b3e87d30b97c
+# appBuildId 20260911T1635Z-b9fdbbbf
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-09-11T16:27:58Z
+# opgesteld  2026-09-11T16:35:53Z
 # bestanden  111
-# bytes      4370688
+# bytes      4372154
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -91,9 +91,9 @@ c2d12225dda95e158bc109d3163ab12fc3a2d99e1751a6b34eaebadc2336e2a2       4696  ass
 2dd11ea01cf1c9ee3aad7fd9f97bfd7e0d6476d2ecceee7fbe81995806fa6673      21393  assets/js/tijdvenster.js
 e11c155161708ddf8bec489ec9f01cb77df72e16311682ef2559c36f53fd85c2       7091  assets/js/tijdvenster.js.br
 a7330582d68bba160a5ca5a6688d87221fc124a063b4f3d41e62875f71cd90e5       7626  assets/js/tijdvenster.js.gz
-621c49c8a2b43db495e0b998455436257b31fa090e92a441958ca200c2929223     192379  assets/js/ui.js
-08a20d7cea2b32178a068dcd763bb08ac9d8e7f959d1b436247a23bde79292ab      48605  assets/js/ui.js.br
-680354154f33808de731fd8f0e64fa4f85643e1423aab33260d7cc81f719401e      56622  assets/js/ui.js.gz
+11d09dcbec6c416d66df8bc77bea4b3d25deb34b04a7c156b087e4ba527aed0f     193019  assets/js/ui.js
+187a6356380765a0aaa30d8544e1daca84cb02c25a169baf0d74188111495549      48855  assets/js/ui.js.br
+d786fcf6ee142d143e9b6c3f5c9d6aa60cc7567ec00a90f0a7dd1c83f8889548      56918  assets/js/ui.js.gz
 edb48fe70f5409601ad0568676a1ce90f9b184fb96aa3310f7e59da686f06541      20285  assets/js/vertraging.js
 74841439f4555cc667bce85470056bfc9d0b2488d5a58e4fe27919c395669233       6701  assets/js/vertraging.js.br
 5a5f4f4240d55d894c79329f7b7edc8766146cb90376ad1df69ee399ddd79523       7240  assets/js/vertraging.js.gz
@@ -144,7 +144,7 @@ cfa65770aba55d3a7cbaf752ed35133ac34fa6eba524711bdc32b48cccb7c8df        126  gly
 1bfc70433ca9e9f3d3ab4e754f2aa68e029955905d81fb446952d18541ded02a       4175  index.html
 968854c31bdce542b7cbd05ef9ca1abee1f0ac97d9af4fc83e21a453eae7c79d       1790  index.html.br
 51bf17a1bbb3e01afeb3c31149fc178b147c0bb82f5613cd06671c13a81958de       2044  index.html.gz
-0a5ec9618de9b233c0fd6369bb4cebf928ffb2e2e8da592a434a9b7288f0a7aa      43796  instellingen.json
-7c6ada35657962db0fe3ca0698a479bffbafd988c5eb984d13092a04a8b55be3      13529  instellingen.json.br
-e43b8fc72b936cd4b0077e03cc27a5227178b4cd8b2193bb9dcfa017b6248659      14807  instellingen.json.gz
+436ac1337f35986e65b19052ccd5c998eca8969f9d8597c911eaa4607d937c49      43938  instellingen.json
+7aaea612892b572b5523d5438f470af9f4b4b1bd29b05198d207e8fa5bb8b586      13588  instellingen.json.br
+2fa1ab25c7c8dd0a8170099ab8350a210fea994a18d6721ce925fc7b7eb748b6      14886  instellingen.json.gz
 00dcd3e6b56d918534a2a45672e2bb3877d486af2eb336143c67bd6dd0daaac3       4624  sw.js
