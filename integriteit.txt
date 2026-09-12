@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    eee49b3907959cfe070ec1efc2afe932c9493342166db882d190ae339885cd29
-# appBuildId 20260912T1454Z-eee49b39
+# appHash    7ecdfe049d0802a2b59dc9283f343f6d514ef08e54860b588de6f79bbec6d8b3
+# appBuildId 20260912T1502Z-7ecdfe04
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-09-12T14:54:20Z
+# opgesteld  2026-09-12T15:02:14Z
 # bestanden  111
-# bytes      4407456
+# bytes      4413463
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -40,18 +40,18 @@
 4ac4ba175efbc83b0dbc90684b6662a0a1ab72b874aedd48d51be7bc40f84e25      90027  assets/css/app.css
 b467181518541fb23cfc0a22e0d50ff87f43a5fe0416639ad096aa03b805b70e      20086  assets/css/app.css.br
 d3790d1807248c919221c4dcf498087cc4ade14c71c4c53a01492f657c26b778      22809  assets/css/app.css.gz
-4a266d840b5e6f5ceeb9007f9f078d4201165512f01fb41a58e33eb3e4b0e129     197760  assets/js/app.js
-0967bfe6dbc8032b705051604e7c3fc081c2474344de96a504e009407f7363dd      51457  assets/js/app.js.br
-bdf41aa8c8d20bd83cf2fef22b0d2a448a11491d366a6a8589662b3367242223      60388  assets/js/app.js.gz
+8636104e1d277557c93871aa805f6c279efe28c424305d985fbe102fe254018d     198619  assets/js/app.js
+6b4aff00a4c86ad9b7b2f2bbdf147b5f1be24d701bd67ae5770920161bd05fd9      51681  assets/js/app.js.br
+51a3f6bc27af386af0a885740777fd078c2d08bfb4e4583e2b7d40230ab9d080      60618  assets/js/app.js.gz
 c1719f2e6f02804a2abea618ac6a79d48e080648eb349708a9960a0f4628da3a       2507  assets/js/bezoek.js
 e8659a14fc275c32ec2c7283748de5341aab93dbfa620d532cdfca78a90a7fec       1215  assets/js/bezoek.js.br
 97f33a64dbf46b0a56d47ccb7e9a676fbd809b50470d656d9cabf5fff73ce031       1286  assets/js/bezoek.js.gz
 b1682040e02a2bc751cb7b04b4a0670bb68982068d384a48674b2c35481f282d      67912  assets/js/cells.js
 4997dca1fd44c63bc9c104b7bffd0fce2c63a51a78e42e35f0a7d284d2f5e924      18513  assets/js/cells.js.br
 1930683afae858bbfa1bc1b2babf9fd2174efe18851a54861299c620e6c5f66b      21248  assets/js/cells.js.gz
-f0a736092f5b5e476fd7087ec09a0bfebc54df0e4261d19020c8a07c94e14afb     129481  assets/js/engine.js
-36e7f9c06ce7f98be0a623c1705764d71d9b26744299cde3423c1fff929a738d      35938  assets/js/engine.js.br
-0d74200151b54c370e3177a18906c7336fa720e5cfe78cfaa1ba4de0f597ccd1      40858  assets/js/engine.js.gz
+75f4dc07b7582052bef4b29aeab5afbbb2ffd3a4f54365992c6e9355f14e6227     129960  assets/js/engine.js
+c5fc977f44e4141db200f77fa5847ba69fbf0c2f11848d276563b09871f9a8df      36066  assets/js/engine.js.br
+112f0dec32d62d191088307daae6063a6238155fe292c8c398c85f0d79b3fe0f      40998  assets/js/engine.js.gz
 25415ed8d2956c0eb3ea76649c09b5016db5152f1117ae5d0c74a14e4953515c      16553  assets/js/format.js
 1db7e2c19a859789d03a4e2a37c313e839217e384270ea31b134f96d536d1156       4928  assets/js/format.js.br
 38d02563bbc0cc10c31af88da186ca205235ed2016a76f2c02d6df420aff2c61       5403  assets/js/format.js.gz
@@ -70,9 +70,9 @@ f4c50fbba93213bbbb29c64fba7aee94286027f0418813edfd49f6d0ca0b0168      11009  ass
 b4517f075187b66dd4c9656c5e6a2a741c9cc87dade82e8dff0f0a21858053a2      84124  assets/js/live.js
 7941454af33d9bbc61759184c03eeddbd99e09c78003ea49b68d1fa8b51e8021      22929  assets/js/live.js.br
 dabb894ac06bf4ceb38a464afed901a37dc91be0426d10b7fb1606db88b57523      25565  assets/js/live.js.gz
-dea10a096131d951e3bd40bdd00c64a57b852f11cd5906bd8264825c369b05a5     259812  assets/js/map.js
-8c577465594255fb0b3dce3482551c46b745b16f2a91b9e340ec64ba97de6bbd      66421  assets/js/map.js.br
-39002e5a6d58f4543ccbc338cccecb10c53eea8bc172b66e75ec3fcb8b22746f      78387  assets/js/map.js.gz
+9cbdce415773f155da613b3c182b2f889340ba1d85e891e6a6602a24a069b727     262642  assets/js/map.js
+47d2e3e5acd21279e1b3351051ca57b9ab6ae6f3e8464e91ea510f31a868c246      66849  assets/js/map.js.br
+eaa2e50f4a89cbbbba523610721080f8ec9fe973345576a01c80cff83b675c8f      79076  assets/js/map.js.gz
 23c80dcf33e8a00f886cbab65feaa15c80c736e2fb402bdd6ca0b9f9ae7bc4ec      24276  assets/js/route.js
 786c45a9a546bfa58aaad6d2cfaedea661634bd05455df628f5dcd5d19058740       8308  assets/js/route.js.br
 950102b1f7db9b6d3909889419ae61ec00bbc3e3a33d43b8206def7c0280ea1e       8954  assets/js/route.js.gz
