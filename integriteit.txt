@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    8641bb788f745dc6822a2f47880a471e24d5115d3258db35261b462c1aceb6b3
-# appBuildId 20260916T1018Z-8641bb78
+# appHash    5e4d64780c879c12cf6ce7ab033028ee52906eb1e1fb6e890c61b7027e62991e
+# appBuildId 20260916T1043Z-5e4d6478
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-09-16T10:18:01Z
+# opgesteld  2026-09-16T10:43:08Z
 # bestanden  117
-# bytes      4595705
+# bytes      4597037
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -150,7 +150,7 @@ cfa65770aba55d3a7cbaf752ed35133ac34fa6eba524711bdc32b48cccb7c8df        126  gly
 ece666bafc50f78c8ebc09cea95b77613c8a4bb000e27126a58b250d346de7ec       4600  index.html
 b0960bad3714e2ee0fd43ff50be9cb78247fef98a718b82c0b89f151769c0ea4       1940  index.html.br
 bb623a4e0bf676919b5beacc9810e18f9f37e05930953cea8d494ca0822ae730       2216  index.html.gz
-21866b619a437a52571bb3b3c882c56ef91d1f750fa87883c042cc1c1ddf855f      52039  instellingen.json
-c8f89db915ca4859927fe0f06ea1e54971ea7cc7d52f0f89ddeb653238b649cc      15979  instellingen.json.br
-b998d6a5aeb5fe41469940ef88ae3828213aaaae2e55f3aa7d6ed84faa04ff91      17536  instellingen.json.gz
+3544bd8aedd5e25ed353ba085f0d20af432525b6c5530860e35e09d6fcbf4cf8      52802  instellingen.json
+e1f537cd51e33ee00be56227f9096a3cf4f3f4a88995837d22ed5286dccffad1      16251  instellingen.json.br
+f54ff57d1003fd63d6b47b4558478ea475ea8d52d8f148d9a0ee8e567e359cb8      17833  instellingen.json.gz
 00dcd3e6b56d918534a2a45672e2bb3877d486af2eb336143c67bd6dd0daaac3       4624  sw.js
