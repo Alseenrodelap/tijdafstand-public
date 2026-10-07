@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    9e4c5d144aedb8907c2f704df3d41438ea868df21de6c80043d64bc52e29411d
-# appBuildId 20261007T1034Z-9e4c5d14
+# appHash    3a1728bbe1312007ec5dbde3bea21e97e341eeb009dc0624168fe469b64f49a5
+# appBuildId 20261007T1105Z-3a1728bb
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-10-07T10:34:17Z
+# opgesteld  2026-10-07T11:05:02Z
 # bestanden  125
-# bytes      4845607
+# bytes      4845538
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -40,9 +40,9 @@
 3cf5e0c03c3b8a6ff11bcb6ab80fa5742d7f1656bab509ea3c316120b62d1f1c     108669  assets/css/app.css
 896db705748f1432ac07e413ca50d0eb14cea9d7914a7d986d7e4089f879bacc      24043  assets/css/app.css.br
 280711842201cc4723781bd003fdc6727ea7f6a5d658bbd68155a5b17f3f96fd      27500  assets/css/app.css.gz
-73d69f3554adc3e2215e38162a9aafba15cc2d12ce72dc141993ca7c3a449556      24821  assets/js/akkoord.js
-27be539de833993b6003406576fa511130967e1441b630b9e679bc7a9b3fcfd1       8863  assets/js/akkoord.js.br
-e8b453e7bc4487c6330e74d3888a3189143010e34d122b944e3ba6838efeecb6       9645  assets/js/akkoord.js.gz
+ca229388a4cccc958d197b3ece4b790a4c2eb89dbb4258cbe69eb5a88ac9d161      24787  assets/js/akkoord.js
+39d2ae76161936005185f28ecd88556a6bc745bb984950a203a6dff603602149       8841  assets/js/akkoord.js.br
+654a621b45e7a211b2bc5321cd17ca981ef9e452bca47195dc6811489bf59e0e       9632  assets/js/akkoord.js.gz
 a93c86592dce4c9b332a293faee0bcea5b18857601213ad65a8b578076142570     216109  assets/js/app.js
 494a6fadf5a9bb2de6e48bffa90507441dff4567ccb33419f897e92f7781bb5d      56105  assets/js/app.js.br
 3add35b7f8f046952cd67023dc12ca67f5eb1928a1b75a1bd1b2dab843391dea      66090  assets/js/app.js.gz
