@@ -27,22 +27,22 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    e223a94e14128e7588c6972ec652bade39d421fab85773a00c1fee9768625045
-# appBuildId 20261012T1502Z-e223a94e
+# appHash    db333be6fd56863d6337f30a3529e6a514e5ed1f3e68f973ed2434c3f5bff236
+# appBuildId 20261013T0606Z-db333be6
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-10-12T15:02:29Z
+# opgesteld  2026-10-13T06:06:31Z
 # bestanden  135
-# bytes      5145564
+# bytes      5139059
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
 # sha256                                                              bytes  pad
-5c2abf3fd6e360f4b8708ad6be5f30865ee38e5bc8a885bf6886626b265fbebc     109091  assets/css/app.css
-0a8d2a2f5fadc4e9681de05a55e4a5cfa7724478598f39c77140aaf0869a48e2      24158  assets/css/app.css.br
-a41f10c812d58b9f82e9ed2a363e9807bb26df59eaaac827675296315794b059      27613  assets/css/app.css.gz
-a244b295db5c66090dee2ad1455fd00117832e2cb44559669538fe30981ce81e      24752  assets/js/akkoord.js
-1320e5d1e6b68ddb94eda9852bc52fa7dd1b13fe438be82b13dfeffa8eee6df2       8829  assets/js/akkoord.js.br
-14dfc81564a3f57214e847ba5eff3a4289fd799daa7b07955e4f422c0e33d757       9624  assets/js/akkoord.js.gz
+7e9bf4fcce317dcf5c9c0711a87bba0ba95029612ba8e2df69ed81bf33389f55     109076  assets/css/app.css
+f4bdc45f276500ae61487d50eb58b535b05b58fa2e72bc916ca1163926619941      24150  assets/css/app.css.br
+e0778bc3e169955487f3ec486efc42443aad0c79da5d192abb59ee1b65ec1ef2      27615  assets/css/app.css.gz
+2ec6c0429f3281d009aa6277bca70914ca2ae6a9aafc06d3630862309084392b      20876  assets/js/akkoord.js
+734f4b58b1c8d5c642ab50942d5288ccde30e643e3dc6d05936b5b62506deaa0       7592  assets/js/akkoord.js.br
+384a6bab701dc250bcc9ad58cd27a6d8b654a13616a21c07c24e849a0095ace5       8253  assets/js/akkoord.js.gz
 a2e6b3469b75ef6671ff17babb0cf0d29cedadddba9ce0535bbc00825ec19ff7     218417  assets/js/app.js
 e49cb1eb1c5dcdc18635ee8a7a369e3b5bc4cd8ddb0596a395e97abd6cc0ca46      56760  assets/js/app.js.br
 3f78f91a80851666a004b05539fc72a4d78a324f25273b757fa0762b797aeb3a      66939  assets/js/app.js.gz
