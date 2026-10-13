@@ -1,19 +1,19 @@
 {
   "$comment": "Integriteitsmanifest van tijdafstand.nl. Gegenereerd door tools/integriteit.py; niet met de hand wijzigen. Dit bestand hoort uit de git-repository te komen, niet van de server die ermee gecontroleerd wordt. Wat het wel en niet bewijst: docs/INTEGRITEIT.md.",
-  "appHash": "33488e4eaf11e4a06db81e33463a41056c17d8bbbd338e881c8c58841a5dcc53",
-  "appBuildId": "20261013T1432Z-33488e4e",
+  "appHash": "295e8f128d6b18057ee332815330861f24cbb08d0f81028ed6b29cc582107831",
+  "appBuildId": "20261013T1440Z-295e8f12",
   "buildId": "20260827T2201Z-420e4f95",
-  "opgesteld": "2026-10-13T14:32:21Z",
+  "opgesteld": "2026-10-13T14:40:03Z",
   "site": "https://www.tijdafstand.nl",
   "generator": "tools/integriteit.py",
   "varianten": {
     "assets/css/app.css.br": {
-      "bytes": 25164,
-      "sha256": "57c43fc9ea7e8569578795a93e247fdee715292342a8ebf4cc468522b75a6792"
+      "bytes": 25214,
+      "sha256": "b4b9ddf3a56a28075da747553c5f0e02169761d5c5b1de017161e315dfbe1256"
     },
     "assets/css/app.css.gz": {
-      "bytes": 28913,
-      "sha256": "25d522082a0efe6e2bc4abf7cd971910239fe77b66c6d80c9e0040fec2415a03"
+      "bytes": 28959,
+      "sha256": "65c87a351fe66dcade03030f787f368aa45b9999805101c19a3eb73c3d6d5392"
     },
     "assets/js/akkoord.js.br": {
       "bytes": 7337,
@@ -104,20 +104,20 @@
       "sha256": "53dba6e0ec5bddf3ee9e4beca39cf2143e43e7c973f303cd2d3732f94f735da8"
     },
     "assets/js/map.js.br": {
-      "bytes": 74499,
-      "sha256": "ef960956c88a103ee8a4f1a08985577632c7384a94c28158023fc4268baed22b"
+      "bytes": 74547,
+      "sha256": "43c65c9dc276b240cc620a8cf73a8ab1a76577f4efd6aa72dfa274e35387b2e9"
     },
     "assets/js/map.js.gz": {
-      "bytes": 88514,
-      "sha256": "812fc798ea2c2382fdb56a9db73df87b87050c503885947afff5fef56540e485"
+      "bytes": 88518,
+      "sha256": "d6a6a1688c4cb94a013bbfecd6919dc1d88ad970b5085cbcabc3b7c4741f0476"
     },
     "assets/js/noodkaart.js.br": {
-      "bytes": 9719,
-      "sha256": "039f9f82a997ad8c2122a373de52c72ef061582a21a5a4a0dcfb65c92a722fc9"
+      "bytes": 10452,
+      "sha256": "cb5717bf7e78fd371664ac1e7a4273d7928c033ab8d56fe449ef40e635c83d40"
     },
     "assets/js/noodkaart.js.gz": {
-      "bytes": 10688,
-      "sha256": "1a10f1d50907791dec536f3cd4d9273c6defff1210a50f413b9350d8aa4c92b6"
+      "bytes": 11503,
+      "sha256": "77766c5f38a9f3f5f62450170f1f40a2b154b503542f86e6d4c05992f9799d97"
     },
     "assets/js/ov.js.br": {
       "bytes": 11978,
@@ -346,6 +346,65 @@
   },
   "builds": [
     {
+      "appBuildId": "20261013T1440Z-295e8f12",
+      "buildId": "20260827T2201Z-420e4f95",
+      "opgesteld": "2026-10-13T14:40:03Z",
+      "appHash": "295e8f128d6b18057ee332815330861f24cbb08d0f81028ed6b29cc582107831",
+      "bestanden": {
+        "assets/css/app.css": "b12f7770a8ec6757887619dbd56e370dd345d5a5bba36998dc60b09b2ce36d6c",
+        "assets/js/akkoord.js": "4ac08067c60057bf6f6958a35264902a5067043f6c05713ff12dffdf576401df",
+        "assets/js/app.js": "1d733265d908e14e3a6a02bafc5ffb8ab42b8e654e1d0592b405b7f552f6e4b1",
+        "assets/js/bezoek.js": "66dcf534e5b3f1cf7b1d8eea1ac6714e9c80a2124fb37f887f74ae613f5e9334",
+        "assets/js/cells.js": "64306c368b334f25c03eb55971b1cd15ca32c9be211c23295e307cd210f7274f",
+        "assets/js/engine.js": "29ad3863cb2dfe19d62634693bfaccf854631b80ded713fb6a945e4c2795dd70",
+        "assets/js/format.js": "d8974abcfbe4372b8b4941aa43407a4fac4e5fbc8912edfeed3cbf31efee5419",
+        "assets/js/geoworker.js": "fdbae39a7172b74c1436216c792f96579aca2973737314f9e3ed7e5c430b07a0",
+        "assets/js/grid.js": "603b080f2c0cfd2ce6b6f76be3e13730452b7768a032f2e46eb71defbb7101f4",
+        "assets/js/integriteit.js": "86c66f1cf300e013bb03007e5c0ff89e75f9b74a2cc67494520dfc5844527687",
+        "assets/js/isochrone.js": "16519e6e20152e4ec16703aaf76e5bb09a1072d13626a8190a93e90bde2b912f",
+        "assets/js/live.js": "391c11e101db5d13919307d6c6af8b55354047319b169386d6b39b812029a8e8",
+        "assets/js/map.js": "71430f4ed74f198f168e51072470f49c26d32181e3f1161c94340234441b8840",
+        "assets/js/noodkaart.js": "7080915c3b5dbd4cf7f55227529599b1cc2d9be42b5a10619dffca1329fa24e8",
+        "assets/js/ov.js": "e1490d037d7e81bf4db5396ba043004eaec25ae106e7df9e1d86361a914961ba",
+        "assets/js/rijgen.js": "fd6634a2a7ca1283a27f24ba568bb3066634affd5e232da6bd411c888f4c9fb9",
+        "assets/js/route.js": "a9f0f3a4bd62082503af3d7f2589abd7846d7b77158d8494702cbf6f61ffe600",
+        "assets/js/router.js": "70559ad1b1b988f22d3f878bbcda24343c618e69dc607d80ae6df9a3d7d867fd",
+        "assets/js/search.js": "bd9dcdfa5cf4813f6fd94b54bb8b255b013d5cc493d5471045252b1c5fb21366",
+        "assets/js/snap.js": "cbcc1bb28cf1262e73a53f9c28f98c82ca2f68184eb4aef3a2f3b0756fe303fc",
+        "assets/js/spits.js": "c2d12225dda95e158bc109d3163ab12fc3a2d99e1751a6b34eaebadc2336e2a2",
+        "assets/js/tijdvenster.js": "2dd11ea01cf1c9ee3aad7fd9f97bfd7e0d6476d2ecceee7fbe81995806fa6673",
+        "assets/js/toegang.js": "295164786ab38b9725440dc8bbe3f431f6047534d938cb9d05efb80dd6adcb14",
+        "assets/js/ui.js": "d385a17ae3949b617d3d149be0e7b931fd4815762bfb63340d0f26d906d1d382",
+        "assets/js/vertraging.js": "df64e150f4ec2492b68a333929aed2aef596c0a8fa695c3720d90a26a3885d75",
+        "assets/vendor/leaflet-LICENSE.txt": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
+        "assets/vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
+        "assets/vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a",
+        "assets/vendor/maplibre-gl.css": "792ac997dcf6ae6f643eb4e2dee4630c85e7056526bd8fb85ffe83c67d6c41b4",
+        "assets/vendor/maplibre-gl.js": "07e6ca71a5b6d835a7c3803fb484f0a6e5f0dcbfa131407666edb9e9316564f9",
+        "assets/vendor/pmtiles.js": "afc49d216fd24c0a3c0ff3cd2e0c62d6cdaf062854c3dced778dcab168824f79",
+        "glyphs/Noto Sans Bold/0-255.pbf": "38ee0df4ff8f05f26979488b453fa7f565417f7b44773002edb9d0a1d33c5c6c",
+        "glyphs/Noto Sans Bold/11008-11263.pbf": "177e087adb2c5acf38f8caaa038652aed67f63af875834e0e5c2dc21140e9928",
+        "glyphs/Noto Sans Bold/256-511.pbf": "faad73a1d184a3852cd5eeebcb8f6b1752778607c773fecd7c0d1ab5d6a2409f",
+        "glyphs/Noto Sans Bold/512-767.pbf": "bb280467015b6f57ba958314ec055ea66f055575fe4bf3651a053c46522de945",
+        "glyphs/Noto Sans Bold/768-1023.pbf": "6cbd29613d82538a09eebf960f2ae2ba095aea1cd6f0a88e9c88c2bee166a0cc",
+        "glyphs/Noto Sans Bold/8192-8447.pbf": "cc85538ac0447c3255c44135e427bff057ff7717199fb52c78f28e695b1e2e91",
+        "glyphs/Noto Sans Bold/8448-8703.pbf": "62c78e8ffd31397a677d9ca90e7070a0e296a461b9de21c4e40256da0f0aee73",
+        "glyphs/Noto Sans Bold/8704-8959.pbf": "03e5b69dbc182791314d4863813760f34be732ca1e653aea99e9e6ec123efd7a",
+        "glyphs/Noto Sans Regular/0-255.pbf": "a98f6346ff8dfaa2fd426b0fb2ec28342eeafa9b5d8e7b037ac44bf925fe6db1",
+        "glyphs/Noto Sans Regular/11008-11263.pbf": "5a4719f2905f11f21a197a2001fb9f8686904d4c5c5c8c7e3c7409cefaf040b7",
+        "glyphs/Noto Sans Regular/256-511.pbf": "a162d730cebdef9efa7eaeec1a71ce030a6b8255ad1d11c5d7a8e2c49a1d3eeb",
+        "glyphs/Noto Sans Regular/512-767.pbf": "01945e3e2c6505140af8f7d73867dce8e4e1d94987d7d90e007ac7228390bc16",
+        "glyphs/Noto Sans Regular/768-1023.pbf": "c024b13bf7cac049fb9796ece5f1f743477406680939a98d4dce2a84e6c30f4d",
+        "glyphs/Noto Sans Regular/8192-8447.pbf": "b52e38767522d08f556f8213ed53f6cd61a49d66e3d480b79e97160fb73ea47f",
+        "glyphs/Noto Sans Regular/8448-8703.pbf": "a53bd2bae26b68a0b272328a18d0387da56879975213257e8ab9fedfa77634c1",
+        "glyphs/Noto Sans Regular/8704-8959.pbf": "b2159c2a0f8726a90509dfe1e54e041660a2977254481026e440ba9603f19883",
+        "glyphs/index.json": "8cb8b4c5f441dddbdf99baf51eb3458ab4e04579b9a2af80f099aec33630c06e",
+        "index.html": "ece666bafc50f78c8ebc09cea95b77613c8a4bb000e27126a58b250d346de7ec",
+        "instellingen.json": "45678719d250e9150ed3a61d59e196a121ae4ea4a743c9cb70194cecd1b803bf",
+        "sw.js": "636649ff01cf4009eddd77fc74c83b8eabf8673c1d648f2db12c8e7426b47b24"
+      }
+    },
+    {
       "appBuildId": "20261013T1432Z-33488e4e",
       "buildId": "20260827T2201Z-420e4f95",
       "opgesteld": "2026-10-13T14:32:21Z",
@@ -413,65 +472,6 @@
         "assets/css/app.css": "c1a15ad6174d371e23fc3930b60d35054757ef14760c8b6fd9f8bfa750f2f455",
         "assets/js/akkoord.js": "4ac08067c60057bf6f6958a35264902a5067043f6c05713ff12dffdf576401df",
         "assets/js/app.js": "1d733265d908e14e3a6a02bafc5ffb8ab42b8e654e1d0592b405b7f552f6e4b1",
-        "assets/js/bezoek.js": "66dcf534e5b3f1cf7b1d8eea1ac6714e9c80a2124fb37f887f74ae613f5e9334",
-        "assets/js/cells.js": "64306c368b334f25c03eb55971b1cd15ca32c9be211c23295e307cd210f7274f",
-        "assets/js/engine.js": "29ad3863cb2dfe19d62634693bfaccf854631b80ded713fb6a945e4c2795dd70",
-        "assets/js/format.js": "d8974abcfbe4372b8b4941aa43407a4fac4e5fbc8912edfeed3cbf31efee5419",
-        "assets/js/geoworker.js": "fdbae39a7172b74c1436216c792f96579aca2973737314f9e3ed7e5c430b07a0",
-        "assets/js/grid.js": "603b080f2c0cfd2ce6b6f76be3e13730452b7768a032f2e46eb71defbb7101f4",
-        "assets/js/integriteit.js": "86c66f1cf300e013bb03007e5c0ff89e75f9b74a2cc67494520dfc5844527687",
-        "assets/js/isochrone.js": "16519e6e20152e4ec16703aaf76e5bb09a1072d13626a8190a93e90bde2b912f",
-        "assets/js/live.js": "391c11e101db5d13919307d6c6af8b55354047319b169386d6b39b812029a8e8",
-        "assets/js/map.js": "9b77c845af5e917171f179d03a9bbaa24cf0525c200c3f6e2106aa7ad8eca5c2",
-        "assets/js/noodkaart.js": "8957a45512f923fd0c38ebd6eb71a4ed2ab5fc203f1aaf1d5d39cd0c2345584b",
-        "assets/js/ov.js": "e1490d037d7e81bf4db5396ba043004eaec25ae106e7df9e1d86361a914961ba",
-        "assets/js/rijgen.js": "fd6634a2a7ca1283a27f24ba568bb3066634affd5e232da6bd411c888f4c9fb9",
-        "assets/js/route.js": "a9f0f3a4bd62082503af3d7f2589abd7846d7b77158d8494702cbf6f61ffe600",
-        "assets/js/router.js": "70559ad1b1b988f22d3f878bbcda24343c618e69dc607d80ae6df9a3d7d867fd",
-        "assets/js/search.js": "bd9dcdfa5cf4813f6fd94b54bb8b255b013d5cc493d5471045252b1c5fb21366",
-        "assets/js/snap.js": "cbcc1bb28cf1262e73a53f9c28f98c82ca2f68184eb4aef3a2f3b0756fe303fc",
-        "assets/js/spits.js": "c2d12225dda95e158bc109d3163ab12fc3a2d99e1751a6b34eaebadc2336e2a2",
-        "assets/js/tijdvenster.js": "2dd11ea01cf1c9ee3aad7fd9f97bfd7e0d6476d2ecceee7fbe81995806fa6673",
-        "assets/js/toegang.js": "295164786ab38b9725440dc8bbe3f431f6047534d938cb9d05efb80dd6adcb14",
-        "assets/js/ui.js": "d385a17ae3949b617d3d149be0e7b931fd4815762bfb63340d0f26d906d1d382",
-        "assets/js/vertraging.js": "df64e150f4ec2492b68a333929aed2aef596c0a8fa695c3720d90a26a3885d75",
-        "assets/vendor/leaflet-LICENSE.txt": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
-        "assets/vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
-        "assets/vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a",
-        "assets/vendor/maplibre-gl.css": "792ac997dcf6ae6f643eb4e2dee4630c85e7056526bd8fb85ffe83c67d6c41b4",
-        "assets/vendor/maplibre-gl.js": "07e6ca71a5b6d835a7c3803fb484f0a6e5f0dcbfa131407666edb9e9316564f9",
-        "assets/vendor/pmtiles.js": "afc49d216fd24c0a3c0ff3cd2e0c62d6cdaf062854c3dced778dcab168824f79",
-        "glyphs/Noto Sans Bold/0-255.pbf": "38ee0df4ff8f05f26979488b453fa7f565417f7b44773002edb9d0a1d33c5c6c",
-        "glyphs/Noto Sans Bold/11008-11263.pbf": "177e087adb2c5acf38f8caaa038652aed67f63af875834e0e5c2dc21140e9928",
-        "glyphs/Noto Sans Bold/256-511.pbf": "faad73a1d184a3852cd5eeebcb8f6b1752778607c773fecd7c0d1ab5d6a2409f",
-        "glyphs/Noto Sans Bold/512-767.pbf": "bb280467015b6f57ba958314ec055ea66f055575fe4bf3651a053c46522de945",
-        "glyphs/Noto Sans Bold/768-1023.pbf": "6cbd29613d82538a09eebf960f2ae2ba095aea1cd6f0a88e9c88c2bee166a0cc",
-        "glyphs/Noto Sans Bold/8192-8447.pbf": "cc85538ac0447c3255c44135e427bff057ff7717199fb52c78f28e695b1e2e91",
-        "glyphs/Noto Sans Bold/8448-8703.pbf": "62c78e8ffd31397a677d9ca90e7070a0e296a461b9de21c4e40256da0f0aee73",
-        "glyphs/Noto Sans Bold/8704-8959.pbf": "03e5b69dbc182791314d4863813760f34be732ca1e653aea99e9e6ec123efd7a",
-        "glyphs/Noto Sans Regular/0-255.pbf": "a98f6346ff8dfaa2fd426b0fb2ec28342eeafa9b5d8e7b037ac44bf925fe6db1",
-        "glyphs/Noto Sans Regular/11008-11263.pbf": "5a4719f2905f11f21a197a2001fb9f8686904d4c5c5c8c7e3c7409cefaf040b7",
-        "glyphs/Noto Sans Regular/256-511.pbf": "a162d730cebdef9efa7eaeec1a71ce030a6b8255ad1d11c5d7a8e2c49a1d3eeb",
-        "glyphs/Noto Sans Regular/512-767.pbf": "01945e3e2c6505140af8f7d73867dce8e4e1d94987d7d90e007ac7228390bc16",
-        "glyphs/Noto Sans Regular/768-1023.pbf": "c024b13bf7cac049fb9796ece5f1f743477406680939a98d4dce2a84e6c30f4d",
-        "glyphs/Noto Sans Regular/8192-8447.pbf": "b52e38767522d08f556f8213ed53f6cd61a49d66e3d480b79e97160fb73ea47f",
-        "glyphs/Noto Sans Regular/8448-8703.pbf": "a53bd2bae26b68a0b272328a18d0387da56879975213257e8ab9fedfa77634c1",
-        "glyphs/Noto Sans Regular/8704-8959.pbf": "b2159c2a0f8726a90509dfe1e54e041660a2977254481026e440ba9603f19883",
-        "glyphs/index.json": "8cb8b4c5f441dddbdf99baf51eb3458ab4e04579b9a2af80f099aec33630c06e",
-        "index.html": "ece666bafc50f78c8ebc09cea95b77613c8a4bb000e27126a58b250d346de7ec",
-        "instellingen.json": "45678719d250e9150ed3a61d59e196a121ae4ea4a743c9cb70194cecd1b803bf",
-        "sw.js": "636649ff01cf4009eddd77fc74c83b8eabf8673c1d648f2db12c8e7426b47b24"
-      }
-    },
-    {
-      "appBuildId": "20261013T1357Z-98830cab",
-      "buildId": "20260827T2201Z-420e4f95",
-      "opgesteld": "2026-10-13T13:57:52Z",
-      "appHash": "98830cabf5c1526885f447902e9ee379fc7febe0becda65c173b64cb81e81c69",
-      "bestanden": {
-        "assets/css/app.css": "c1a15ad6174d371e23fc3930b60d35054757ef14760c8b6fd9f8bfa750f2f455",
-        "assets/js/akkoord.js": "4ac08067c60057bf6f6958a35264902a5067043f6c05713ff12dffdf576401df",
-        "assets/js/app.js": "aaadd9403883d1eb29d0ce5fb4486e3c6ccab139fddd07e4a8483804fad4d2a8",
         "assets/js/bezoek.js": "66dcf534e5b3f1cf7b1d8eea1ac6714e9c80a2124fb37f887f74ae613f5e9334",
         "assets/js/cells.js": "64306c368b334f25c03eb55971b1cd15ca32c9be211c23295e307cd210f7274f",
         "assets/js/engine.js": "29ad3863cb2dfe19d62634693bfaccf854631b80ded713fb6a945e4c2795dd70",
