@@ -27,19 +27,19 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    4de45a2b0752f85b5875d203d7ff2371dd95aa2c5bfc91332ba3bb3729f4d281
-# appBuildId 20261017T0730Z-4de45a2b
+# appHash    1650eeb4ac0cf31715c2998c013e62b3d0881145b5fbcc494b558b4b73a48ada
+# appBuildId 20261017T0837Z-1650eeb4
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-10-17T07:30:18Z
+# opgesteld  2026-10-17T08:37:59Z
 # bestanden  135
-# bytes      5214686
+# bytes      5216433
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
 # sha256                                                              bytes  pad
-861b11164a723596ffb9ddf2ab647d716bc20548eeeaa12b638f2145058715f1     114490  assets/css/app.css
-2421b2a10d91d61d40768120e534c949ee138b0923ada2a1fe61c8c0284cdba1      25291  assets/css/app.css.br
-2bd7ab3f5d51e24a8971c64e2ad08ac7e58a7338e7cd1d755d2da8001ca3887b      29053  assets/css/app.css.gz
+eeb18e2aba35402804688e9958eda5ff37ff7ce5e6007a10e995c831a2bd4aa7     114721  assets/css/app.css
+af23d8d9470284444d5ddc933428e478b7b85bb136badc7addbd1252467b0a10      25366  assets/css/app.css.br
+8e8398a97760763bf85cb9b732c9e65aee71151a44d006686ea35c686a992c57      29119  assets/css/app.css.gz
 4ac08067c60057bf6f6958a35264902a5067043f6c05713ff12dffdf576401df      20216  assets/js/akkoord.js
 d2190785f31da7dbba1434c4d44708c5d13c5063ce627f31e9c02f75f178a476       7337  assets/js/akkoord.js.br
 1e32a9ede074da495ba3a95939032c3e1c83eba227a0be60e7841ae332b51e96       7987  assets/js/akkoord.js.gz
@@ -76,9 +76,9 @@ c6f83917aaf24af1770026af610d78ed273d719b00cd5e787ec9db8c5ee7a551      11239  ass
 5580965d15c05b72f21027917eb2a11bc77fdb186473b54400e4df1ca6bd7a7a     299956  assets/js/map.js
 8a0292f5365aa4f2e04ddca72e549a73c306912f3989e55ec36fed3ae23353e2      74760  assets/js/map.js.br
 b58fdaca373bfc8a5c8a311d418deb393ea1a68918404449bf825dc4a78d3788      88799  assets/js/map.js.gz
-7080915c3b5dbd4cf7f55227529599b1cc2d9be42b5a10619dffca1329fa24e8      36333  assets/js/noodkaart.js
-cb5717bf7e78fd371664ac1e7a4273d7928c033ab8d56fe449ef40e635c83d40      10452  assets/js/noodkaart.js.br
-77766c5f38a9f3f5f62450170f1f40a2b154b503542f86e6d4c05992f9799d97      11503  assets/js/noodkaart.js.gz
+e2fd812fd2127315faa769dcbfa0560053cba3aba936a03365236e8762b1e89d      37311  assets/js/noodkaart.js
+e9a31e8d410344e6dd58d9a9e1e795d5eb9b40080e3fe74a7d542c779ca9cf28      10619  assets/js/noodkaart.js.br
+c3793f5934c9c2e42b29f80a841f8582c61fb7b212599a2caac8c44841671d8f      11733  assets/js/noodkaart.js.gz
 e1490d037d7e81bf4db5396ba043004eaec25ae106e7df9e1d86361a914961ba      41976  assets/js/ov.js
 602f1df09defb1ebdb446c898afcd2a102803f835c9e95dcc7f91ea8dddfd3f6      11978  assets/js/ov.js.br
 bc919dcd72c152818846a7370e70b23aac627bbb92a4973ae947438dd6555b49      12978  assets/js/ov.js.gz
