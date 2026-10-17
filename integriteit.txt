@@ -27,19 +27,19 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    9374ccc1f77543b0b90ec0715438b3eefde093f4fc0f19891813f85e41eb43e0
-# appBuildId 20261017T0955Z-9374ccc1
+# appHash    3a793fce9bfd6b23d65be2882ed25d2d7d1decd7a21dcb25fce9d118be6381ea
+# appBuildId 20261017T1108Z-3a793fce
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-10-17T09:55:10Z
+# opgesteld  2026-10-17T11:08:21Z
 # bestanden  135
-# bytes      5232398
+# bytes      5233616
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
 # sha256                                                              bytes  pad
-75245fe3948fb583ecfbe199e07223cb9bd7e3585d759d1ec09ba37e72a4a1a5     115712  assets/css/app.css
-73d8acca1b99b0324f5ad5324a37569d53a8870cba3b1ebc814ba9b935b1c446      25555  assets/css/app.css.br
-7a3f5590e32dec66cbd563637f59cdb46345217da39fba79eac43f001e2e993e      29358  assets/css/app.css.gz
+187a8c59b104c36998bfb9f106dfbbe181e2259724e79c3270701db7054a3801     116003  assets/css/app.css
+0c8680265182165d354a6d4ba3940842bdb0838f556cd138f848fab3d1e85ba0      25645  assets/css/app.css.br
+c2e36785e06d22b29f541bf8d8508cb92b1c649bf84d9ce150c81270aa4b4779      29444  assets/css/app.css.gz
 4ac08067c60057bf6f6958a35264902a5067043f6c05713ff12dffdf576401df      20216  assets/js/akkoord.js
 d2190785f31da7dbba1434c4d44708c5d13c5063ce627f31e9c02f75f178a476       7337  assets/js/akkoord.js.br
 1e32a9ede074da495ba3a95939032c3e1c83eba227a0be60e7841ae332b51e96       7987  assets/js/akkoord.js.gz
@@ -73,9 +73,9 @@ c6f83917aaf24af1770026af610d78ed273d719b00cd5e787ec9db8c5ee7a551      11239  ass
 391c11e101db5d13919307d6c6af8b55354047319b169386d6b39b812029a8e8      84738  assets/js/live.js
 736570f2db01bc8d4e631da294d76c16ae5e34a7106cbeb4c060d6867915a1b0      23081  assets/js/live.js.br
 53dba6e0ec5bddf3ee9e4beca39cf2143e43e7c973f303cd2d3732f94f735da8      25765  assets/js/live.js.gz
-2b0db36ab06f1db3ca71c29da59a5c7097a4a182de93ab3bc86bd965a766faad     305294  assets/js/map.js
-7733740a3b40fbfed1309358b84470b8afc6e8690a3821fcb74508a779ae9a72      76206  assets/js/map.js.br
-25ac761e5d7a6c02e7dcc3542a4bb290fe07fe2cb81412ea43de6ff13a384dc6      90683  assets/js/map.js.gz
+e6c96ced4c0fd752d0d79ddee5e42e917fad96d4101d6995c67569283f349aa6     305707  assets/js/map.js
+911143dfb16b7b24e3bc8eec7a140b6dc47532408ca1f1fdc5917f28979b4964      76323  assets/js/map.js.br
+aec8bdde50f69f017062738ffc54c5cf7a3398570d59af218ef17bf8436d5ba8      90796  assets/js/map.js.gz
 d7b55cf44b5aaf98589dab6bb977f629c5ef0ebe963c0759abb88638295b0ff4      38000  assets/js/noodkaart.js
 8421c73a9f35de6bf6cac4fba4cce84e5068247601f55e1e4f4f76b2adde6bac      10817  assets/js/noodkaart.js.br
 e06c959fb4cca5cfc5e62e2f76f29830bb746538fb71f4a2481a440038c4d965      11924  assets/js/noodkaart.js.gz
@@ -166,9 +166,9 @@ cfa65770aba55d3a7cbaf752ed35133ac34fa6eba524711bdc32b48cccb7c8df        126  gly
 ece666bafc50f78c8ebc09cea95b77613c8a4bb000e27126a58b250d346de7ec       4600  index.html
 b0960bad3714e2ee0fd43ff50be9cb78247fef98a718b82c0b89f151769c0ea4       1940  index.html.br
 bb623a4e0bf676919b5beacc9810e18f9f37e05930953cea8d494ca0822ae730       2216  index.html.gz
-6c022fe700e59432af8d0ae499aa169082838864504c6f4647c8d2fd3c09ac3e      59642  instellingen.json
-b2d505cf61a6b88ecf048c074aedf154928768b7f7187fa8b547fcfbe1c25abf      18043  instellingen.json.br
-0bbdcb9d11132e381d2e8609904fee77caa8bf2fa07d0a54bbbae9cf6795aa36      19917  instellingen.json.gz
+ab7848d039d08766bcf0eee4fcfd104b887341eb2f8cf2780b2256ce172c3830      59703  instellingen.json
+f961c6f220e371c5ca3e55e347baa27bc5e3e384653694b08c8b271393a7854e      18061  instellingen.json.br
+7bf173d92d02fa04228f15b0f922d8b42fda78288ab641235735634640f5f814      19946  instellingen.json.gz
 636649ff01cf4009eddd77fc74c83b8eabf8673c1d648f2db12c8e7426b47b24       4907  sw.js
 e3f77dc935dcbcbba78c8fbf531c8774303c521b8e8901b5f1fb984cd36e0164       2088  sw.js.br
 6fc06f4b9c863217f2120548a259603efa52edab62dc3a73abbda33b71030bdd       2262  sw.js.gz
