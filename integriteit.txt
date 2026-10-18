@@ -27,19 +27,19 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    a31b2a811d5d4a20df818a3cdd36d800dcb89affaff0184f12d95bfeb25edd85
-# appBuildId 20261018T0452Z-a31b2a81
+# appHash    187f64e9b56d0ad6959106c438d2a15098ea9cb3b7f6e072cb366f37a5a28206
+# appBuildId 20261018T0455Z-187f64e9
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-10-18T04:52:52Z
+# opgesteld  2026-10-18T04:55:52Z
 # bestanden  138
-# bytes      5309494
+# bytes      5312812
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
 # sha256                                                              bytes  pad
-a039f3a74611a6eb7875888958b0ce8b0995b5492307736925043af13f5fcf94     122915  assets/css/app.css
-025915968c654abb837cd82c4a86d06a8259d037e81d7a78603086f42199f26a      27114  assets/css/app.css.br
-ffc948f10f7e9e2176933da58243449dac82239d671bea5d6c5d9714505add3d      31369  assets/css/app.css.gz
+99a693bea93aba69466c650d18818b69423a1a4b7744e4efa27abacd78a9a2f2     123892  assets/css/app.css
+b82049c6529fa1d76451ed8ce72d34385ca1cc980b5ddb2f09578827f78f6989      27279  assets/css/app.css.br
+354e2c71590343dc64a932691fc9d3affb6025f01a38dc77cdd28f01560766e2      31576  assets/css/app.css.gz
 d69e237ffc5061f9d2af419e3947903b70c90d14a6c106ce9b4edefceac07392      20599  assets/js/akkoord.js
 4dcfa20da206834b7c9ab58640a83ee20bdcd7a369a4d548e0a28156fceb7fc3       7460  assets/js/akkoord.js.br
 9fa18d87960cea6c3c5a7d6a01a063f7c9aaa983309db2204180b4634abd2925       8121  assets/js/akkoord.js.gz
@@ -109,9 +109,9 @@ a7330582d68bba160a5ca5a6688d87221fc124a063b4f3d41e62875f71cd90e5       7626  ass
 295164786ab38b9725440dc8bbe3f431f6047534d938cb9d05efb80dd6adcb14       7712  assets/js/toegang.js
 6103333c315d30a4bd8d296a3c723329bea17bf3a79926ef4150c09f6c7b1c0e       2915  assets/js/toegang.js.br
 fef58dcb5e8658853f47c3655b81cf0a1d03ced5f9e37dda45740cb010444bb6       3223  assets/js/toegang.js.gz
-be83296702abd64756f0358112a05541b036c2cfae85b0564b8806a915fc4255     240196  assets/js/ui.js
-4bff8d70f9a18d5e1b4ff1f898120d23e5cd6f7cb0e92cdb0762a054600aaf39      59624  assets/js/ui.js.br
-3e3795b82626d86931c7ad629a0e3448ef70032311c74728bdda1d79ae9cd814      69896  assets/js/ui.js.gz
+180e8f9cab27955e6fee0502b5bf3f2038a1ab11a4d25c9536348b56a6bc2ce6     241496  assets/js/ui.js
+469314287310f42546aee086044696e4fd4e8a049c9fa58d29ee78ed0dd766d5      59934  assets/js/ui.js.br
+a6d7c13e2b7509f85968d105c2a29823f9c3d0f7c317c3152abb447370f4e506      70255  assets/js/ui.js.gz
 df64e150f4ec2492b68a333929aed2aef596c0a8fa695c3720d90a26a3885d75      21974  assets/js/vertraging.js
 77197f6bc439d6988968ece1ee6ecf7a044ef211f501757cb0dc66028884f09b       7278  assets/js/vertraging.js.br
 75b2f1b49c94a689495472488491fe405901acdd456854cfca20c310b7fd21a7       7871  assets/js/vertraging.js.gz
