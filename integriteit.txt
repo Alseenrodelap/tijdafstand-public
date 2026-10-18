@@ -27,12 +27,12 @@
 # controle die in de app zelf draait. Daarin staan de originelen (dat zijn de
 # bytes die fetch() teruggeeft) en de .br/.gz apart onder "varianten".
 #
-# appHash    cb7207de0dbf81d436c5d31590443bf97213bb5d79a782b424331849f6e2aaec
-# appBuildId 20261018T0615Z-cb7207de
+# appHash    0a12f7603af2eb633adee149f61cfe9e529ee662739ed2f7604f6414dbf8da0a
+# appBuildId 20261018T0620Z-0a12f760
 # buildId    20260827T2201Z-420e4f95
-# opgesteld  2026-10-18T06:15:25Z
+# opgesteld  2026-10-18T06:20:12Z
 # bestanden  138
-# bytes      5329695
+# bytes      5330212
 # site       https://www.tijdafstand.nl
 # generator  tools/integriteit.py
 #
@@ -109,9 +109,9 @@ a7330582d68bba160a5ca5a6688d87221fc124a063b4f3d41e62875f71cd90e5       7626  ass
 295164786ab38b9725440dc8bbe3f431f6047534d938cb9d05efb80dd6adcb14       7712  assets/js/toegang.js
 6103333c315d30a4bd8d296a3c723329bea17bf3a79926ef4150c09f6c7b1c0e       2915  assets/js/toegang.js.br
 fef58dcb5e8658853f47c3655b81cf0a1d03ced5f9e37dda45740cb010444bb6       3223  assets/js/toegang.js.gz
-5f0f0abe8695a3de426f955dd7d068c3fb4bc88d77d8955542bcccecc8ff21fd     247143  assets/js/ui.js
-c70e9fa1da8306128e173ab1c96adf19e4fe3f001ed617080e508460f2ac6a58      61103  assets/js/ui.js.br
-70d5f2a6280a73f6c262b87ed977c8424b2abf7ba87644f59871c5f658fccf09      71737  assets/js/ui.js.gz
+6ea436e44e2a2f5fe7d1332e915b27f32bc9cf0154443f885f78476ef3fa861f     247525  assets/js/ui.js
+1c8c1a1ce034d91f08de4e839e63072464483858f2defae55365faa3e2aa3287      61141  assets/js/ui.js.br
+17b9742944f3cb0d440fd7066cc6e6015962a0760807f2cb1c6f52d821d59817      71834  assets/js/ui.js.gz
 df64e150f4ec2492b68a333929aed2aef596c0a8fa695c3720d90a26a3885d75      21974  assets/js/vertraging.js
 77197f6bc439d6988968ece1ee6ecf7a044ef211f501757cb0dc66028884f09b       7278  assets/js/vertraging.js.br
 75b2f1b49c94a689495472488491fe405901acdd456854cfca20c310b7fd21a7       7871  assets/js/vertraging.js.gz
